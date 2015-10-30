@@ -27,7 +27,7 @@ Your contributions are always welcome!
   
 - [Teams](#teams)
 
-- [Free Islamic Software](#free-islamic-software)
+- [Best Free Islamic Software](#best-free-islamic-software)
   - Mobile Apps
     - IOS
     - Android
@@ -127,12 +127,20 @@ Your contributions are always welcome!
 [Ojuba](http://ojuba.org/wiki/doku.php)
 
 
-## Free Islamic Software
+## Best Free Islamic Software
 ### Mobile Apps
+
 #### IOS
 
 - [Al-Quran](https://itunes.apple.com/app/iphoneislam-mushaf-mshf-ay/id328962407?mt=8)
 - [Qamardeen](http://qamardeen.com/) :  an app that tells you how well you've been praying this week, how regularly you've been reading Quran this month, and how steadily you've been fasting this year.
+- [Prayer Times Today](https://itunes.apple.com/us/app/prayer-times-today/id921754326?mt=8) : The most simple way to view Muslim prayer times. With very elegant and easy today extension you can now view Muslim prayer times so fast.
+
+#### Windows Phone
+- [Hijri Calendar](https://www.microsoft.com/en-us/store/apps/hijri-calendar/9wzdncrfhxtl) : Hijri Calendar provides you with a calendar showing the current Hijri date, updates the app's live tile and reminds you of important islamic events.
+- [Al-Azkar](https://www.microsoft.com/en-us/store/apps/%D8%A7%D9%84%D8%A7%D8%B0%D9%83%D8%A7%D8%B1/9wzdncrdhn6w) : provides you with different Azkar
+- [Al-Quran](https://www.microsoft.com/en-us/store/apps/al-quran/9wzdncrfj34w) : Al Quran App is complete Quran in beautiful Arabic Font. It also has verse-by-verse translation, verse-by-verse recitation and full text search. You can listen to the recitation while connected to internet connection, or you can download the recitation for offline use.
+- [Salaty](https://www.microsoft.com/en-us/store/apps/%D8%B5%D9%84%D8%A7%D8%AA%D9%8A/9wzdncrfjbqw) : Qibla + PrayTimes + Athan + Lockscreens
 ### Desktop Apps
 ### Windows
 - [Ela-Salaty](http://www.ela-salaty.com/)
