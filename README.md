@@ -12,6 +12,7 @@ Your contributions are always welcome!
     - Java
     - JavaScript
     - Python
+    - Objective-C
   - Mobile Apps
   - Web Apps
   - Desktop Apps
@@ -48,6 +49,8 @@ Your contributions are always welcome!
 - [Django-Quran](https://github.com/idris/django-quran) : Quranic models and helpers for use in Django projects http://www.openislam.org/
 - [Hijra](https://github.com/ojuba-org/hijra) : Hijri Islamic Calendar utils in python
 
+#### Objective-C
+- [BAPrayerTimes](https://github.com/batoulapps/BAPrayerTimes) : BAPrayerTimes is an Objective-C library for calculating Islamic prayer times. It provides a convenient Objective-C interface to the ITL prayer times library, making it easy to correctly calculate prayer times on iOS and OS X.
 ### Mobile Apps
 #### Android
   
@@ -96,13 +99,13 @@ Your contributions are always welcome!
 #### IOS
 
 - [Al-Quran](https://itunes.apple.com/app/iphoneislam-mushaf-mshf-ay/id328962407?mt=8)
-
+- [Qamardeen](http://qamardeen.com/) :  an app that tells you how well you've been praying this week, how regularly you've been reading Quran this month, and how steadily you've been fasting this year.
 ### Desktop Apps
 ### Windows
 - [Ela-Salaty](http://www.ela-salaty.com/)
 
 ### OSX
-
+- [Guidance](http://guidanceapp.com/) : Guidance is a prayer times application for Mac OS X that plays the Adhan when it is time for prayer. Designed to be simple and elegant
 ### Linux
 
 - [Zekr Quran](http://zekr.org/quran/en/quran-for-linux)
