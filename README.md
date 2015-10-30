@@ -102,6 +102,7 @@ Your contributions are always welcome!
 - [Quranic Audio](http://quranicaudio.com/) : Quranic Audio , your source for high quality recitations of the Quran. All the Quran recitations are in high quality and are free for download and streaming as mp3s.
 - [Verse By Verse](http://www.versebyversequran.com/) : provide you with easy and free access to the Quran in MP3 format seperated into individual verse (verse by verse breakdown).
 - [Hadith-islamware](https://github.com/ceefour/hadith-islamware) : Hadith database from Islam Ware https://www.islamware.com/app/downloads
+- [prayer-times-adhan](http://praytimes.org/audio/) : A collection of famous adhan audios is provided in this page. 
 
 
 ## Teams
