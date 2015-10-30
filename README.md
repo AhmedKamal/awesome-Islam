@@ -16,8 +16,8 @@ Your contributions are always welcome!
   - Web Apps
   - Desktop Apps
   - Browser Extensions
-  - Development Resources
   - Miscallenious
+  - Development Resources
   
 - [Free Islamic Software](#free-islamic-software)
   - Mobile Apps
@@ -58,16 +58,18 @@ Your contributions are always welcome!
   - [Waqt.com](https://github.com/quran/waqt.org) : website for calculating muslim prayertimes. http://waqt.org
 ### Desktop Apps
 
-- [Minbar](https://github.com/arabeyes-org/ITL-programs/tree/master/minbar) : Minbar is a GNOME Islamic prayer times application on top of libitl,
-
-### Development Resources
-
-- [Quran.com Images](https://github.com/quran/quran.com-images) : images using fonts from King Fahed Complex / qurancomplex.org http://quran.com
+- [Minbar](https://github.com/arabeyes-org/ITL-programs/tree/master/minbar) : Minbar is a GNOME Islamic prayer times application on top of libitl
 
 ### MISC
 
 - [Alfanous] (https://github.com/assem-ch/alfanous) : Alfanous (The Lantern - الفانوس ) is an Arabic search engine API provide the simple and advanced search in the Holy Quran , more features and many interfaces... http://www.alfanous.org
 - [Quran Research Tool](https://github.com/oazabir/Quran)
+
+### Development Resources
+
+- [Quran.com Images](https://github.com/quran/quran.com-images) : images using fonts from King Fahed Complex / qurancomplex.org http://quran.com
+
+
 
 ## Free Islamic Software
 ### Mobile Apps
