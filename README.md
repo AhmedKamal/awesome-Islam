@@ -19,6 +19,8 @@ Your contributions are always welcome!
   - Miscallenious
   - Development Resources
   
+- [Teams](#teams)
+
 - [Free Islamic Software](#free-islamic-software)
   - Mobile Apps
     - IOS
@@ -27,6 +29,7 @@ Your contributions are always welcome!
     - Windows
     - Mac
     - Linux
+
 
 ## Open Source Projects
 ### APIs & Libraries
@@ -58,9 +61,11 @@ Your contributions are always welcome!
   - [Quran Dev](https://github.com/qurandev/qurandev) : Visualizing Quranic data from different websites in easy browser accessible, offline capable, iphone friendly webpages.
   - [Quran.com front end](https://github.com/quran/quran.com-frontend)
   - [Waqt.com](https://github.com/quran/waqt.org) : website for calculating muslim prayertimes. http://waqt.org
+
 ### Desktop Apps
 
 - [Minbar](https://github.com/arabeyes-org/ITL-programs/tree/master/minbar) : Minbar is a GNOME Islamic prayer times application on top of libitl
+- [Monajat](https://github.com/ojuba-org/monajat)
 
 ### MISC
 
@@ -72,6 +77,15 @@ Your contributions are always welcome!
 
 - [Quran.com Images](https://github.com/quran/quran.com-images) : images using fonts from King Fahed Complex / qurancomplex.org http://quran.com
 - [Quran-CSV](https://github.com/azvox/quran-csv) : This Quran csv files contains all known translations and recitations as well as images and other resources.
+- [Quran-Corpus](http://corpus.quran.com/) :  Quranic Arabic Corpus, an annotated linguistic resource which shows the Arabic grammar, syntax and morphology for each word in the Holy Quran. The corpus provides three levels of analysis: morphological annotation, a syntactic treebank and a semantic ontology.
+- [TV-Quran](http://torrent.mp3quran.net/torrents.php) : Audio resources for Quran by different receiters
+- [Quranic Audio](http://quranicaudio.com/) : Quranic Audio , your source for high quality recitations of the Quran. All the Quran recitations are in high quality and are free for download and streaming as mp3s.
+- [Verse By Verse](http://www.versebyversequran.com/) : provide you with easy and free access to the Quran in MP3 format seperated into individual verse (verse by verse breakdown).
+
+## Teams
+[Sabily Team](http://www.sabily.org/website/)
+- PPA : https://launchpad.net/~sabily.team/+archive/ubuntu/ppa
+
 
 ## Free Islamic Software
 ### Mobile Apps
