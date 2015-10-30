@@ -1,10 +1,11 @@
-# Islamic-projects-directory
-a try to make directory for all islamic projects to help people contribute , use and share them.
+# awesome-Islam
+A curated list of awesome islam related projects, frameworks, resources and other awesomeness. 
+
+The aim of this list is to find projects easily and contribute to the ones they like.
 
 Your contributions are always welcome!
 
-
-### Categories
+## Categories
 - Quran projects
 - Hadith projects
 - Miscallenious
