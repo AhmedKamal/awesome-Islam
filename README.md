@@ -46,6 +46,7 @@ Your contributions are always welcome!
 
 #### Python
 - [Django-Quran](https://github.com/idris/django-quran) : Quranic models and helpers for use in Django projects http://www.openislam.org/
+- [Hijra](https://github.com/ojuba-org/hijra) : Hijri Islamic Calendar utils in python
 
 ### Mobile Apps
 #### Android
