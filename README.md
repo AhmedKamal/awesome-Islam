@@ -85,14 +85,19 @@ Your contributions are always welcome!
 - [TV-Quran](http://torrent.mp3quran.net/torrents.php) : Audio resources for Quran by different receiters
 - [Quranic Audio](http://quranicaudio.com/) : Quranic Audio , your source for high quality recitations of the Quran. All the Quran recitations are in high quality and are free for download and streaming as mp3s.
 - [Verse By Verse](http://www.versebyversequran.com/) : provide you with easy and free access to the Quran in MP3 format seperated into individual verse (verse by verse breakdown).
+- [Hadith-islamware](https://github.com/ceefour/hadith-islamware) : Hadith database from Islam Ware https://www.islamware.com/app/downloads
+
 
 ## Teams
+
 [Sabily Team](http://www.sabily.org/website/)
 - PPA : https://launchpad.net/~sabily.team/+archive/ubuntu/ppa
+[Global Quran](https://github.com/GlobalQuran)
 
 [Quran.com](https://github.com/quran)
 
 [Ojuba](http://ojuba.org/wiki/doku.php)
+
 
 ## Free Islamic Software
 ### Mobile Apps
