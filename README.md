@@ -1,13 +1,16 @@
 # awesome-Islam
 A curated list of awesome islam related projects, frameworks, resources and other awesomeness. 
 
-> The aim of this list is to find projects easily and contribute to the ones they like.
+#### The aim of this list is to 
+- help people who want to contribute to islamic projects find & contribute to the ones they like.
+- help developers find the best resources that help them while developing new islamic apps being aware of the current repos and apps
+- help users in different platforms find the best islamic apps that can help them in their life.
 
 Your contributions are always welcome!
 
 ## Table Of Contents
 - [Open Source Projects](#open-source-projects)
-  - APIs & Libraries
+  - [APIs & Libraries](#api--libraries)
     - C++
     - Java
     - JavaScript
