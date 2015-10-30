@@ -21,6 +21,9 @@ Your contributions are always welcome!
   - Browser Extensions
   - Miscallenious
   - Development Resources
+    - Text
+    - Sound
+    - Images
   
 - [Teams](#teams)
 
@@ -72,7 +75,9 @@ Your contributions are always welcome!
   
   - [Quran Android] (https://github.com/quran/quran_android) : a quran reading application for android http://android.quran.com
   - [HisnulMuslim](https://github.com/khalid-hussain/HisnulMuslim) : an Android app which include all the dua from Hisnul Muslim.
-  - [MatnAjrumiyyah](https://github.com/khalid-hussain/MatnAjrumiyyah) : This is an Android app for Matn Al-Ajurumiyyah.
+  - [MatnAjrumiyyah](https://github.com/khalid-hussain/MatnAjrumiyyah) : an Android app for Matn Al-Ajurumiyyah.
+  - [Kids Quran Android](https://github.com/abodehq/Kids-Quran-Android-v1) : an interactive app for motivating children to learn Quran
+  - [Athkar Kids](https://github.com/abodehq/Athkar-Kids) : an app to encourage children and help them learn and say different athkar(Azkar)
 
 #### Windows Phone
   - [Quran Phone] (https://github.com/stankovski/quran-phone) : Quran Phone is a free, open source Quran application for Windows Phone based on Quran Android project (http://android.quran.com/). 
@@ -95,15 +100,21 @@ Your contributions are always welcome!
 
 ### Development Resources
 
-- [Quran.com Images](https://github.com/quran/quran.com-images) : images using fonts from King Fahed Complex / qurancomplex.org http://quran.com
+#### Text
 - [Quran-CSV](https://github.com/azvox/quran-csv) : This Quran csv files contains all known translations and recitations as well as images and other resources.
 - [Quran-Corpus](http://corpus.quran.com/) :  Quranic Arabic Corpus, an annotated linguistic resource which shows the Arabic grammar, syntax and morphology for each word in the Holy Quran. The corpus provides three levels of analysis: morphological annotation, a syntactic treebank and a semantic ontology.
+- [Hadith-islamware](https://github.com/ceefour/hadith-islamware) : Hadith database from Islam Ware https://www.islamware.com/app/downloads
+
+#### Sound
+
 - [TV-Quran](http://torrent.mp3quran.net/torrents.php) : Audio resources for Quran by different receiters
 - [Quranic Audio](http://quranicaudio.com/) : Quranic Audio , your source for high quality recitations of the Quran. All the Quran recitations are in high quality and are free for download and streaming as mp3s.
 - [Verse By Verse](http://www.versebyversequran.com/) : provide you with easy and free access to the Quran in MP3 format seperated into individual verse (verse by verse breakdown).
-- [Hadith-islamware](https://github.com/ceefour/hadith-islamware) : Hadith database from Islam Ware https://www.islamware.com/app/downloads
-- [prayer-times-adhan](http://praytimes.org/audio/) : A collection of famous adhan audios is provided in this page. 
+- [prayer-times-adhan](https://github.com/abodehq/Athan-MP3) : A collection of famous adhan audios is provided. 
 
+#### Images
+- [Quran.com Images](https://github.com/quran/quran.com-images) : images using fonts from King Fahed Complex / qurancomplex.org http://quran.com
+- [Athkar Images](https://github.com/abodehq/athkar)
 
 ## Teams
 
