@@ -8,6 +8,10 @@ Your contributions are always welcome!
 ## Table Of Contents
 - [Open Source Projects](#open-source-projects)
   - APIs & Libraries
+    - C++
+    - Java
+    - JavaScript
+    - Python
   - Mobile Apps
   - Web Apps
   - Desktop Apps
@@ -27,12 +31,18 @@ Your contributions are always welcome!
 ## Open Source Projects
 ### APIs & Libraries
 
+#### C++
 - [ITL](https://github.com/arabeyes-org/ITL) : The Islamic Tools and Libraries (ITL) project provides a fully featured library for performing common Islamic calculations.
+
+#### Java
 -  [ITL-Java](https://github.com/fikr4n/itl-java) : ITL Java is a Java library based on LGPL-licensed ITL (Islamic Tools and Libraries), currently includes prayer times (salat), Hijri date, and qibla direction.
 - [iclib-java](https://github.com/fikr4n/iclib-java) : Islamic Calculation Library (ICLib) contains calculations for prayer (salat) times, qibla direction, and Hijri conversion
-- [Alfanous] (https://github.com/assem-ch/alfanous) : Alfanous (The Lantern - الفانوس ) is an Arabic search engine API provide the simple and advanced search in the Holy Quran , more features and many interfaces... http://www.alfanous.org
 
+#### Javascript
 - [node,websql and javascript API for Holy quran] (https://github.com/qzaidi/quran) : node,websql and javascript API for Holy quran http://qzaidi.github.io/quran/
+
+#### Python
+- [Django-Quran](https://github.com/idris/django-quran) : Quranic models and helpers for use in Django projects http://www.openislam.org/
 
 ### Mobile Apps
 #### Android
@@ -56,8 +66,8 @@ Your contributions are always welcome!
 
 ### MISC
 
+- [Alfanous] (https://github.com/assem-ch/alfanous) : Alfanous (The Lantern - الفانوس ) is an Arabic search engine API provide the simple and advanced search in the Holy Quran , more features and many interfaces... http://www.alfanous.org
 - [Quran Research Tool](https://github.com/oazabir/Quran)
-
 
 ## Free Islamic Software
 ### Mobile Apps
