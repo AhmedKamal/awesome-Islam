@@ -81,6 +81,7 @@ Your contributions are always welcome!
   - [MatnAjrumiyyah](https://github.com/khalid-hussain/MatnAjrumiyyah) : an Android app for Matn Al-Ajurumiyyah.
   - [Kids Quran Android](https://github.com/abodehq/Kids-Quran-Android-v1) : an interactive app for motivating children to learn Quran
   - [Athkar Kids](https://github.com/abodehq/Athkar-Kids) : an app to encourage children and help them learn and say different athkar(Azkar)
+  - [Hijri Calendar](https://github.com/abodehq/Hijri-Calendar) : Hijri Calendar for android
 
 #### Windows Phone
   - [Quran Phone] (https://github.com/stankovski/quran-phone) : Quran Phone is a free, open source Quran application for Windows Phone based on Quran Android project (http://android.quran.com/). 
@@ -107,6 +108,7 @@ Your contributions are always welcome!
 - [Quran-CSV](https://github.com/azvox/quran-csv) : This Quran csv files contains all known translations and recitations as well as images and other resources.
 - [Quran-Corpus](http://corpus.quran.com/) :  Quranic Arabic Corpus, an annotated linguistic resource which shows the Arabic grammar, syntax and morphology for each word in the Holy Quran. The corpus provides three levels of analysis: morphological annotation, a syntactic treebank and a semantic ontology.
 - [Hadith-islamware](https://github.com/ceefour/hadith-islamware) : Hadith database from Islam Ware https://www.islamware.com/app/downloads
+- [PDF Quran](https://github.com/abodehq/QuranPDF) : PDF version for Quran in different languages
 
 #### Sound
 
@@ -118,6 +120,7 @@ Your contributions are always welcome!
 #### Images
 - [Quran.com Images](https://github.com/quran/quran.com-images) : images using fonts from King Fahed Complex / qurancomplex.org http://quran.com
 - [Athkar Images](https://github.com/abodehq/athkar)
+- [God Names Images](https://github.com/abodehq/God-Names)
 
 ## Teams
 
@@ -138,19 +141,22 @@ Your contributions are always welcome!
 - [Al-Quran](https://itunes.apple.com/app/iphoneislam-mushaf-mshf-ay/id328962407?mt=8)
 - [Qamardeen](http://qamardeen.com/) :  an app that tells you how well you've been praying this week, how regularly you've been reading Quran this month, and how steadily you've been fasting this year.
 - [Prayer Times Today](https://itunes.apple.com/us/app/prayer-times-today/id921754326?mt=8) : The most simple way to view Muslim prayer times. With very elegant and easy today extension you can now view Muslim prayer times so fast.
-
+- [Hijri Calendar](https://itunes.apple.com/us/app/hijri-calendar/id410453117?mt=8) : a cool hirjri calendar that has multiple features
 #### Windows Phone
 - [Hijri Calendar](https://www.microsoft.com/en-us/store/apps/hijri-calendar/9wzdncrfhxtl) : Hijri Calendar provides you with a calendar showing the current Hijri date, updates the app's live tile and reminds you of important islamic events.
 - [Al-Azkar](https://www.microsoft.com/en-us/store/apps/%D8%A7%D9%84%D8%A7%D8%B0%D9%83%D8%A7%D8%B1/9wzdncrdhn6w) : provides you with different Azkar
 - [Al-Quran](https://www.microsoft.com/en-us/store/apps/al-quran/9wzdncrfj34w) : Al Quran App is complete Quran in beautiful Arabic Font. It also has verse-by-verse translation, verse-by-verse recitation and full text search. You can listen to the recitation while connected to internet connection, or you can download the recitation for offline use.
 - [Salaty](https://www.microsoft.com/en-us/store/apps/%D8%B5%D9%84%D8%A7%D8%AA%D9%8A/9wzdncrfjbqw) : Qibla + PrayTimes + Athan + Lockscreens
+
 ### Desktop Apps
-### Windows
+
+#### Windows
 - [Ela-Salaty](http://www.ela-salaty.com/)
 
-### OSX
+#### OSX
 - [Guidance](http://guidanceapp.com/) : Guidance is a prayer times application for Mac OS X that plays the Adhan when it is time for prayer. Designed to be simple and elegant
-### Linux
+
+#### Linux
 
 - [Zekr Quran](http://zekr.org/quran/en/quran-for-linux)
 
