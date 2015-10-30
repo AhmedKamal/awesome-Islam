@@ -87,6 +87,9 @@ Your contributions are always welcome!
 [Sabily Team](http://www.sabily.org/website/)
 - PPA : https://launchpad.net/~sabily.team/+archive/ubuntu/ppa
 
+[Quran.com](https://github.com/quran)
+
+[Ojuba](http://ojuba.org/wiki/doku.php)
 
 ## Free Islamic Software
 ### Mobile Apps
