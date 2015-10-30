@@ -9,6 +9,7 @@ Your contributions are always welcome!
 - [Open Source Projects](#open-source-projects)
   - APIs & Libraries
   - Mobile Apps
+  - Web Apps
   - Desktop Apps
   - Browser Extensions
   - Development Resources
@@ -41,6 +42,9 @@ Your contributions are always welcome!
 #### Windows Phone
   - [Quran Phone] (https://github.com/stankovski/quran-phone) : Quran Phone is a free, open source Quran application for Windows Phone based on Quran Android project (http://android.quran.com/). 
 
+### Web Apps
+  - [Quran.com front end](https://github.com/quran/quran.com-frontend)
+  - [Waqt.com](https://github.com/quran/waqt.org) : website for calculating muslim prayertimes. http://waqt.org
 ### Desktop Apps
 
 - [Minbar](https://github.com/arabeyes-org/ITL-programs/tree/master/minbar) : Minbar is a GNOME Islamic prayer times application on top of libitl,
@@ -49,6 +53,9 @@ Your contributions are always welcome!
 
 - [Quran.com Images](https://github.com/quran/quran.com-images) : images using fonts from King Fahed Complex / qurancomplex.org http://quran.com
 
+### MISC
+
+- [Quran Research Tool](https://github.com/oazabir/Quran)
 ## Islamic Software
 ### Mobile Apps
 #### IOS
