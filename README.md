@@ -1,7 +1,7 @@
 # awesome-Islam
 A curated list of awesome islam related projects, frameworks, resources and other awesomeness. 
 
->> The aim of this list is to find projects easily and contribute to the ones they like.
+> The aim of this list is to find projects easily and contribute to the ones they like.
 
 Your contributions are always welcome!
 
@@ -20,10 +20,11 @@ Your contributions are always welcome!
 - [node,websql and javascript API for Holy quran] (https://github.com/qzaidi/quran) : node,websql and javascript API for Holy quran http://qzaidi.github.io/quran/
 
 ### Mobile Apps
-  #### Android
+#### Android
+  
   - [Quran Android] (https://github.com/quran/quran_android) : a quran reading application for android http://android.quran.com
 
-  #### Windows Phone
+#### Windows Phone
   - [Quran Phone] (https://github.com/stankovski/quran-phone) : Quran Phone is a free, open source Quran application for Windows Phone based on Quran Android project (http://android.quran.com/). 
 
 ### Development Resources
