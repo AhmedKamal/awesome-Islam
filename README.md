@@ -13,6 +13,8 @@ Your contributions are always welcome!
     - JavaScript
     - Python
     - Objective-C
+    - .NET
+    - PHP
   - Mobile Apps
   - Web Apps
   - Desktop Apps
@@ -37,20 +39,34 @@ Your contributions are always welcome!
 
 #### C++
 - [ITL](https://github.com/arabeyes-org/ITL) : The Islamic Tools and Libraries (ITL) project provides a fully featured library for performing common Islamic calculations.
+- [Pray-Times](https://github.com/abodehq/Pray-Times/tree/master/Code/v2/cpp) :  an open-source library for calculating Muslim prayers times.
 
 #### Java
 -  [ITL-Java](https://github.com/fikr4n/itl-java) : ITL Java is a Java library based on LGPL-licensed ITL (Islamic Tools and Libraries), currently includes prayer times (salat), Hijri date, and qibla direction.
 - [iclib-java](https://github.com/fikr4n/iclib-java) : Islamic Calculation Library (ICLib) contains calculations for prayer (salat) times, qibla direction, and Hijri conversion
+- [Pray-Times](https://github.com/abodehq/Pray-Times/tree/master/Code/v2/java) : an open-source library for calculating Muslim prayers times.
 
 #### Javascript
 - [node,websql and javascript API for Holy quran] (https://github.com/qzaidi/quran) : node,websql and javascript API for Holy quran http://qzaidi.github.io/quran/
+- [Pray-Times](https://github.com/abodehq/Pray-Times/tree/master/Code/v2/js) : an open-source library for calculating Muslim prayers times.
+
 
 #### Python
 - [Django-Quran](https://github.com/idris/django-quran) : Quranic models and helpers for use in Django projects http://www.openislam.org/
 - [Hijra](https://github.com/ojuba-org/hijra) : Hijri Islamic Calendar utils in python
+- [Pray-Times](https://github.com/abodehq/Pray-Times/tree/master/Code/v2/python) : an open-source library for calculating Muslim prayers times.
 
 #### Objective-C
 - [BAPrayerTimes](https://github.com/batoulapps/BAPrayerTimes) : BAPrayerTimes is an Objective-C library for calculating Islamic prayer times. It provides a convenient Objective-C interface to the ITL prayer times library, making it easy to correctly calculate prayer times on iOS and OS X.
+- [Pray-Times](https://github.com/abodehq/Pray-Times/tree/master/Code/v2/objc) : an open-source library for calculating Muslim prayers times.
+
+#### .NET
+- [Pray-Times](https://github.com/abodehq/Pray-Times/tree/master/Code/v2/csharp) : an open-source library for calculating Muslim prayers times.
+- [Prayer Times](https://github.com/stankovski/prayer-times) : .NET portable library written C# to calculate Muslim prayer times ported from http://praytimes.org/
+
+#### PHP
+- [Pray-Times](https://github.com/abodehq/Pray-Times/tree/master/Code/v2/php): an open-source library for calculating Muslim prayers times.
+
 ### Mobile Apps
 #### Android
   
