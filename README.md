@@ -44,12 +44,19 @@ Your contributions are always welcome!
 ### Mobile Apps
 #### IOS
 - [Al-Quran](https://itunes.apple.com/app/iphoneislam-mushaf-mshf-ay/id328962407?mt=8)
+
 ### Desktop Apps
 ### Windows
+
 - [Ela-Salaty](http://www.ela-salaty.com/)
+- 
+
 ### OSX
+
 ### Linux
+
 - [Zekr Quran](http://zekr.org/quran/en/quran-for-linux)
+
 ## License
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
