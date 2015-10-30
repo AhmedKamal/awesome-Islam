@@ -48,6 +48,8 @@ Your contributions are always welcome!
 #### Android
   
   - [Quran Android] (https://github.com/quran/quran_android) : a quran reading application for android http://android.quran.com
+  - [HisnulMuslim](https://github.com/khalid-hussain/HisnulMuslim) : an Android app which include all the dua from Hisnul Muslim.
+  - [MatnAjrumiyyah](https://github.com/khalid-hussain/MatnAjrumiyyah) : This is an Android app for Matn Al-Ajurumiyyah.
 
 #### Windows Phone
   - [Quran Phone] (https://github.com/stankovski/quran-phone) : Quran Phone is a free, open source Quran application for Windows Phone based on Quran Android project (http://android.quran.com/). 
@@ -64,12 +66,12 @@ Your contributions are always welcome!
 
 - [Alfanous] (https://github.com/assem-ch/alfanous) : Alfanous (The Lantern - الفانوس ) is an Arabic search engine API provide the simple and advanced search in the Holy Quran , more features and many interfaces... http://www.alfanous.org
 - [Quran Research Tool](https://github.com/oazabir/Quran)
+- [IslamicTextAHK](https://github.com/khalid-hussain/IslamicTextAHK) : This is an app developed using AutoHotkey scripting to help expand most commonly used Islamic terms while allowing the user to edit the defaults and/or add their own custom expansions.
 
 ### Development Resources
 
 - [Quran.com Images](https://github.com/quran/quran.com-images) : images using fonts from King Fahed Complex / qurancomplex.org http://quran.com
-
-
+- [Quran-CSV](https://github.com/azvox/quran-csv) : This Quran csv files contains all known translations and recitations as well as images and other resources.
 
 ## Free Islamic Software
 ### Mobile Apps
