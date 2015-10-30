@@ -7,8 +7,10 @@ Your contributions are always welcome!
 
 ## Table Of Contents
 - [Open Source Projects](#open-source-projects)
-  - APIs
+  - APIs & Libraries
   - Mobile Apps
+  - Desktop Apps
+  - Browser Extensions
   - Development Resources
   - Miscallenious
   
@@ -22,8 +24,11 @@ Your contributions are always welcome!
     - Linux
 
 ## Open Source Projects
-### APIs
+### APIs & Libraries
 
+- [ITL](https://github.com/arabeyes-org/ITL) : The Islamic Tools and Libraries (ITL) project provides a fully featured library for performing common Islamic calculations.
+-  [ITL-Java](https://github.com/fikr4n/itl-java) : ITL Java is a Java library based on LGPL-licensed ITL (Islamic Tools and Libraries), currently includes prayer times (salat), Hijri date, and qibla direction.
+- [iclib-java](https://github.com/fikr4n/iclib-java) : Islamic Calculation Library (ICLib) contains calculations for prayer (salat) times, qibla direction, and Hijri conversion
 - [Alfanous] (https://github.com/assem-ch/alfanous) : Alfanous (The Lantern - الفانوس ) is an Arabic search engine API provide the simple and advanced search in the Holy Quran , more features and many interfaces... http://www.alfanous.org
 
 - [node,websql and javascript API for Holy quran] (https://github.com/qzaidi/quran) : node,websql and javascript API for Holy quran http://qzaidi.github.io/quran/
@@ -36,6 +41,10 @@ Your contributions are always welcome!
 #### Windows Phone
   - [Quran Phone] (https://github.com/stankovski/quran-phone) : Quran Phone is a free, open source Quran application for Windows Phone based on Quran Android project (http://android.quran.com/). 
 
+### Desktop Apps
+
+- [Minbar](https://github.com/arabeyes-org/ITL-programs/tree/master/minbar) : Minbar is a GNOME Islamic prayer times application on top of libitl,
+
 ### Development Resources
 
 - [Quran.com Images](https://github.com/quran/quran.com-images) : images using fonts from King Fahed Complex / qurancomplex.org http://quran.com
@@ -43,13 +52,12 @@ Your contributions are always welcome!
 ## Islamic Software
 ### Mobile Apps
 #### IOS
+
 - [Al-Quran](https://itunes.apple.com/app/iphoneislam-mushaf-mshf-ay/id328962407?mt=8)
 
 ### Desktop Apps
 ### Windows
-
 - [Ela-Salaty](http://www.ela-salaty.com/)
-- 
 
 ### OSX
 
