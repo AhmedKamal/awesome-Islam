@@ -15,7 +15,7 @@ Your contributions are always welcome!
   - Development Resources
   - Miscallenious
   
-- Free Islamic Software
+- [Free Islamic Software](#free-islamci-software)
   - Mobile Apps
     - IOS
     - Android
@@ -43,6 +43,7 @@ Your contributions are always welcome!
   - [Quran Phone] (https://github.com/stankovski/quran-phone) : Quran Phone is a free, open source Quran application for Windows Phone based on Quran Android project (http://android.quran.com/). 
 
 ### Web Apps
+  - [Quran Dev](https://github.com/qurandev/qurandev) : Visualizing Quranic data from different websites in easy browser accessible, offline capable, iphone friendly webpages.
   - [Quran.com front end](https://github.com/quran/quran.com-frontend)
   - [Waqt.com](https://github.com/quran/waqt.org) : website for calculating muslim prayertimes. http://waqt.org
 ### Desktop Apps
@@ -56,7 +57,9 @@ Your contributions are always welcome!
 ### MISC
 
 - [Quran Research Tool](https://github.com/oazabir/Quran)
-## Islamic Software
+
+
+## Free Islamic Software
 ### Mobile Apps
 #### IOS
 
