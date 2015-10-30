@@ -5,14 +5,23 @@ A curated list of awesome islam related projects, frameworks, resources and othe
 
 Your contributions are always welcome!
 
-## Categories
-- APIs
-- Mobile Apps
-- Development Resources
-- Miscallenious
+## Table Of Contents
+- [Open Source Projects](#open-source-projects)
+  - APIs
+  - Mobile Apps
+  - Development Resources
+  - Miscallenious
+  
+- Free Islamic Software
+  - Mobile Apps
+    - IOS
+    - Android
+  - Desktop Apps
+    - Windows
+    - Mac
+    - Linux
 
-
-
+## Open Source Projects
 ### APIs
 
 - [Alfanous] (https://github.com/assem-ch/alfanous) : Alfanous (The Lantern - الفانوس ) is an Arabic search engine API provide the simple and advanced search in the Holy Quran , more features and many interfaces... http://www.alfanous.org
@@ -31,7 +40,16 @@ Your contributions are always welcome!
 
 - [Quran.com Images](https://github.com/quran/quran.com-images) : images using fonts from King Fahed Complex / qurancomplex.org http://quran.com
 
-
+## Islamic Software
+### Mobile Apps
+#### IOS
+- [Al-Quran](https://itunes.apple.com/app/iphoneislam-mushaf-mshf-ay/id328962407?mt=8)
+### Desktop Apps
+### Windows
+- [Ela-Salaty](http://www.ela-salaty.com/)
+### OSX
+### Linux
+- [Zekr Quran](http://zekr.org/quran/en/quran-for-linux)
 ## License
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
