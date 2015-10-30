@@ -15,7 +15,7 @@ Your contributions are always welcome!
   - Development Resources
   - Miscallenious
   
-- [Free Islamic Software](#free-islamci-software)
+- [Free Islamic Software](#free-islamic-software)
   - Mobile Apps
     - IOS
     - Android
