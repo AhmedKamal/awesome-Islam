@@ -6,6 +6,8 @@ A curated list of awesome islam related projects, frameworks, resources and othe
 - help developers find the best resources that help them while developing new islamic apps being aware of the current repos and apps
 - help users in different platforms find the best islamic apps that can help them in their life.
 
+> You may also find it useful to check [awesome-arabic](https://github.com/01walid/awesome-arabic)
+
 Your contributions are always welcome!
 
 ## Table Of Contents
@@ -61,10 +63,12 @@ Your contributions are always welcome!
 - [Django-Quran](https://github.com/idris/django-quran) : Quranic models and helpers for use in Django projects http://www.openislam.org/
 - [Hijra](https://github.com/ojuba-org/hijra) : Hijri Islamic Calendar utils in python
 - [Pray-Times](https://github.com/abodehq/Pray-Times/tree/master/Code/v2/python) : an open-source library for calculating Muslim prayers times.
+- [pyIslam](https://github.com/abougouffa/pyIslam) : pyIslam, a Python library to calculate prayer times, hijri date, qiblah direction and more http://abougouffa.github.io/pyIslam
 
 #### Objective-C
 - [BAPrayerTimes](https://github.com/batoulapps/BAPrayerTimes) : BAPrayerTimes is an Objective-C library for calculating Islamic prayer times. It provides a convenient Objective-C interface to the ITL prayer times library, making it easy to correctly calculate prayer times on iOS and OS X.
 - [Pray-Times](https://github.com/abodehq/Pray-Times/tree/master/Code/v2/objc) : an open-source library for calculating Muslim prayers times.
+- [IslamicDatePicker](https://github.com/dimohamdy/IslamicDatePicker) : IslamicDatePicker iOS Custom View
 
 #### .NET
 - [Pray-Times](https://github.com/abodehq/Pray-Times/tree/master/Code/v2/csharp) : an open-source library for calculating Muslim prayers times.
@@ -81,7 +85,9 @@ Your contributions are always welcome!
   - [MatnAjrumiyyah](https://github.com/khalid-hussain/MatnAjrumiyyah) : an Android app for Matn Al-Ajurumiyyah.
   - [Kids Quran Android](https://github.com/abodehq/Kids-Quran-Android-v1) : an interactive app for motivating children to learn Quran
   - [Athkar Kids](https://github.com/abodehq/Athkar-Kids) : an app to encourage children and help them learn and say different athkar(Azkar)
-  - [Hijri Calendar](https://github.com/abodehq/Hijri-Calendar) : Hijri Calendar for android
+  - [Hijri Calendar](https://github.com/abodehq/Hijri-Calendar) : Hijri Calendar [app](https://play.google.com/store/apps/details?id=com.mos7af.hijri) for android
+  - [Huson Almuslim Android V2](https://github.com/abodehq/Huson-Almuslim-Android-v2) : an Android app which include all the dua from Huson Almuslim.
+  - [Islamic Stremaer Android](https://github.com/hammady/Islamic-Streamer-Android) : Stream Islamic audio content (Quran, lessons, videos, ...) on your Android phone
 
 #### Windows Phone
   - [Quran Phone] (https://github.com/stankovski/quran-phone) : Quran Phone is a free, open source Quran application for Windows Phone based on Quran Android project (http://android.quran.com/). 
@@ -91,8 +97,10 @@ Your contributions are always welcome!
   - [Quran.com front end](https://github.com/quran/quran.com-frontend)
   - [Waqt.com](https://github.com/quran/waqt.org) : website for calculating muslim prayertimes. http://waqt.org
 
-### Desktop Apps
+### Browser Extensions
+- [Prayer Times Extension](https://github.com/mohamedmansour/prayer-times-extension)
 
+### Desktop Apps
 - [Minbar](https://github.com/arabeyes-org/ITL-programs/tree/master/minbar) : Minbar is a GNOME Islamic prayer times application on top of libitl
 - [Monajat](https://github.com/ojuba-org/monajat)
 
@@ -101,6 +109,8 @@ Your contributions are always welcome!
 - [Alfanous] (https://github.com/assem-ch/alfanous) : Alfanous (The Lantern - الفانوس ) is an Arabic search engine API provide the simple and advanced search in the Holy Quran , more features and many interfaces... http://www.alfanous.org
 - [Quran Research Tool](https://github.com/oazabir/Quran)
 - [IslamicTextAHK](https://github.com/khalid-hussain/IslamicTextAHK) : This is an app developed using AutoHotkey scripting to help expand most commonly used Islamic terms while allowing the user to edit the defaults and/or add their own custom expansions.
+- [Islamic Dictionary](https://github.com/islamic-dictionary/islamic-dictionary) : The Islamic Dictionary database and audio files (from islamic-dictionary.com) http://www.islamic-dictionary.com
+
 
 ### Development Resources
 
@@ -121,6 +131,14 @@ Your contributions are always welcome!
 - [Quran.com Images](https://github.com/quran/quran.com-images) : images using fonts from King Fahed Complex / qurancomplex.org http://quran.com
 - [Athkar Images](https://github.com/abodehq/athkar)
 - [God Names Images](https://github.com/abodehq/God-Names)
+
+#### Fonts
+
+* [Amiri Font](http://www.amirifont.org) : a classical Arabic typeface in Naskh style for typesetting books and other running text.
+* [sahl-naskh](https://github.com/khaledhosny/sahl-naskh) : A fork of Droid Arabic Naskh font fixing some of the issues in the original font.
+* [Jozoor font](http://fonts.jozoor.com/jozoor-font/) : Jozoor arabic font (Only Regular weight is available for free).
+* [Flat font](http://fonts.jozoor.com/flat-font/) : arabic font (Only Regular weight is available for free)..
+
 
 ## Teams
 
