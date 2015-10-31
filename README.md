@@ -12,34 +12,35 @@ Your contributions are always welcome!
 
 ## Table Of Contents
 - [Open Source Projects](#open-source-projects)
-  - [APIs & Libraries](#api--libraries)
-    - C++
-    - Java
-    - JavaScript
-    - Python
-    - Objective-C
-    - .NET
-    - PHP
-  - Mobile Apps
-  - Web Apps
-  - Desktop Apps
-  - Browser Extensions
-  - Miscallenious
-  - Development Resources
-    - Text
-    - Sound
-    - Images
+  - [APIs & Libraries](#apis--libraries)
+    - [C++](#c)
+    - [Java](#java)
+    - [JavaScript](#java-script)
+    - [Python](#python)
+    - [Objective-C](#objective-c)
+    - [.NET](#net)
+    - [PHP](#php)
+  - [Mobile Apps](#mobile-apps)
+  - [Web Apps](#web-apps)
+  - [Desktop Apps](#desktop-apps)
+  - [Browser Extensions](#browser-extensions)
+  - [Miscallenious](#miscallenious)
+  - [Development Resources](#development-resources)
+    - [Text](#text)
+    - [Sound](#sound)
+    - [Images](#images)
+    - [Fonts](#fonts)
   
 - [Teams](#teams)
 
 - [Best Free Islamic Software](#best-free-islamic-software)
-  - Mobile Apps
-    - IOS
-    - Android
-  - Desktop Apps
-    - Windows
-    - Mac
-    - Linux
+  - [Mobile Apps](#mobile-apps-1)
+    - [IOS](#ios)
+    - [Android](#android)
+  - [Desktop Apps](#desktop-apps)
+    - [Windows](#windows)
+    - [Mac](#mac)
+    - [Linux](#linux)
 
 
 ## Open Source Projects
