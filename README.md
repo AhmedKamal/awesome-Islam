@@ -143,13 +143,13 @@ Your contributions are always welcome!
 
 ## Teams
 
-[Sabily Team](http://www.sabily.org/website/)
-- PPA : https://launchpad.net/~sabily.team/+archive/ubuntu/ppa
-[Global Quran](https://github.com/GlobalQuran)
+- [Sabily Team](http://www.sabily.org/website/)
+  - PPA : https://launchpad.net/~sabily.team/+archive/ubuntu/ppa
+-[Global Quran](https://github.com/GlobalQuran)
 
-[Quran.com](https://github.com/quran)
+-[Quran.com](https://github.com/quran)
 
-[Ojuba](http://ojuba.org/wiki/doku.php)
+-[Ojuba](http://ojuba.org/wiki/doku.php)
 
 
 ## Best Free Islamic Software
@@ -161,6 +161,7 @@ Your contributions are always welcome!
 - [Qamardeen](http://qamardeen.com/) :  an app that tells you how well you've been praying this week, how regularly you've been reading Quran this month, and how steadily you've been fasting this year.
 - [Prayer Times Today](https://itunes.apple.com/us/app/prayer-times-today/id921754326?mt=8) : The most simple way to view Muslim prayer times. With very elegant and easy today extension you can now view Muslim prayer times so fast.
 - [Hijri Calendar](https://itunes.apple.com/us/app/hijri-calendar/id410453117?mt=8) : a cool hirjri calendar that has multiple features
+
 #### Windows Phone
 - [Hijri Calendar](https://www.microsoft.com/en-us/store/apps/hijri-calendar/9wzdncrfhxtl) : Hijri Calendar provides you with a calendar showing the current Hijri date, updates the app's live tile and reminds you of important islamic events.
 - [Al-Azkar](https://www.microsoft.com/en-us/store/apps/%D8%A7%D9%84%D8%A7%D8%B0%D9%83%D8%A7%D8%B1/9wzdncrdhn6w) : provides you with different Azkar
