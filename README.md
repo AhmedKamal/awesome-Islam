@@ -93,15 +93,17 @@ Your contributions are always welcome!
   - [Hijri Calendar](https://github.com/abodehq/Hijri-Calendar) : Hijri Calendar [app](https://play.google.com/store/apps/details?id=com.mos7af.hijri) for android
   - [Huson Almuslim Android V2](https://github.com/abodehq/Huson-Almuslim-Android-v2) : an Android app which include all the dua from Huson Almuslim.
   - [Islamic Stremaer Android](https://github.com/hammady/Islamic-Streamer-Android) : Stream Islamic audio content (Quran, lessons, videos, ...) on your Android phone
+  - [alfanous-android](https://github.com/AhmedSalem/alfanous-android) : mobile app client for [alfanous](http://www.alfanous.org)
 
 #### Windows Phone
   - [Quran Phone] (https://github.com/stankovski/quran-phone) : Quran Phone is a free, open source Quran application for Windows Phone based on Quran Android project (http://android.quran.com/). 
+  - [alfanous-wp](https://github.com/Alfanous-team/alfanous4wp): mobile app client for [alfanous](http://www.alfanous.org)
 
 ### Web Apps
   - [Quran Dev](https://github.com/qurandev/qurandev) : Visualizing Quranic data from different websites in easy browser accessible, offline capable, iphone friendly webpages.
   - [Quran.com front end](https://github.com/quran/quran.com-frontend)
   - [Waqt.com](https://github.com/quran/waqt.org) : website for calculating muslim prayertimes. http://waqt.org
-
+  - [IslamSource](https://github.com/GregoryMorse/IslamSource) : Islam Source Quran, hadith, Islamic information metadata project http://islamsource.info
 ### Browser Extensions
 - [Prayer Times Extension](https://github.com/mohamedmansour/prayer-times-extension)
 
