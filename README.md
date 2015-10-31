@@ -79,6 +79,10 @@ Your contributions are always welcome!
 - [Pray-Times](https://github.com/abodehq/Pray-Times/tree/master/Code/v2/php): an open-source library for calculating Muslim prayers times.
 
 ### Mobile Apps
+
+#### Cross Platform
+- [aQuran](https://github.com/forabi/aQuran) : A mobile-optimized, cross-platform Quran app built with web technologies. http://forabi.github.io/aQuran
+
 #### Android
   
   - [Quran Android] (https://github.com/quran/quran_android) : a quran reading application for android http://android.quran.com
@@ -145,11 +149,10 @@ Your contributions are always welcome!
 
 - [Sabily Team](http://www.sabily.org/website/)
   - PPA : https://launchpad.net/~sabily.team/+archive/ubuntu/ppa
--[Global Quran](https://github.com/GlobalQuran)
-
--[Quran.com](https://github.com/quran)
-
--[Ojuba](http://ojuba.org/wiki/doku.php)
+- [Global Quran](https://github.com/GlobalQuran)
+- [Quran.com](https://github.com/quran)
+- [Alfanous-team](https://github.com/Alfanous-team)
+- [Ojuba](http://ojuba.org/wiki/doku.php)
 
 
 ## Best Free Islamic Software
