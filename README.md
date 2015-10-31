@@ -2,8 +2,8 @@
 A curated list of awesome islam related projects, frameworks, resources and other awesomeness. 
 
 #### The aim of this list is to 
-- help people who want to contribute to islamic projects find & contribute to the ones they like.
-- help developers find the best resources that help them while developing new islamic apps being aware of the current repos and apps
+- support exisiting projects by helping people who want to contribute find them easily.
+- help developers find the best resources that help them while developing new islamic apps being aware of the current repos and apps and the gaps in differenet platoforms.
 - help users in different platforms find the best islamic apps that can help them in their life.
 
 > You may also find it useful to check [awesome-arabic](https://github.com/01walid/awesome-arabic)
@@ -18,9 +18,13 @@ Your contributions are always welcome!
     - [JavaScript](#java-script)
     - [Python](#python)
     - [Objective-C](#objective-c)
+    - [Swift](#swift)
     - [.NET](#net)
     - [PHP](#php)
   - [Mobile Apps](#mobile-apps)
+    - [Cross Platform](#cross-platform)
+    - [Android](#android)
+    - [Windows Phone](#windows-phone)
   - [Web Apps](#web-apps)
   - [Desktop Apps](#desktop-apps)
   - [Browser Extensions](#browser-extensions)
@@ -36,7 +40,7 @@ Your contributions are always welcome!
 - [Best Free Islamic Software](#best-free-islamic-software)
   - [Mobile Apps](#mobile-apps-1)
     - [IOS](#ios)
-    - [Android](#android)
+    - [Android](#android-1)
   - [Desktop Apps](#desktop-apps)
     - [Windows](#windows)
     - [Mac](#mac)
@@ -70,6 +74,9 @@ Your contributions are always welcome!
 - [BAPrayerTimes](https://github.com/batoulapps/BAPrayerTimes) : BAPrayerTimes is an Objective-C library for calculating Islamic prayer times. It provides a convenient Objective-C interface to the ITL prayer times library, making it easy to correctly calculate prayer times on iOS and OS X.
 - [Pray-Times](https://github.com/abodehq/Pray-Times/tree/master/Code/v2/objc) : an open-source library for calculating Muslim prayers times.
 - [IslamicDatePicker](https://github.com/dimohamdy/IslamicDatePicker) : IslamicDatePicker iOS Custom View
+
+#### Swift
+- [PrayerTimes-Swift](https://github.com/ashikahmad/PrayerTimes-Swift) : Islamic Prayer (salah) Time calculation written in swift.
 
 #### .NET
 - [Pray-Times](https://github.com/abodehq/Pray-Times/tree/master/Code/v2/csharp) : an open-source library for calculating Muslim prayers times.
