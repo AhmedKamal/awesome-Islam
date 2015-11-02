@@ -41,10 +41,13 @@ Your contributions are always welcome!
   - [Mobile Apps](#mobile-apps-1)
     - [IOS](#ios)
     - [Android](#android-1)
+    - [Windows Phone](#windows-phone-1)
   - [Desktop Apps](#desktop-apps)
     - [Windows](#windows)
     - [Mac](#mac)
     - [Linux](#linux)
+  - [Wearables Apps](#wearables)
+  
 
 
 ## Open Source Projects
@@ -174,6 +177,11 @@ Your contributions are always welcome!
 - [Prayer Times Today](https://itunes.apple.com/us/app/prayer-times-today/id921754326?mt=8) : The most simple way to view Muslim prayer times. With very elegant and easy today extension you can now view Muslim prayer times so fast.
 - [Hijri Calendar](https://itunes.apple.com/us/app/hijri-calendar/id410453117?mt=8) : a cool hirjri calendar that has multiple features
 
+#### Android
+
+- [My Prayer](https://play.google.com/store/apps/details?id=com.haz.prayer) : This app calculates Muslims prayer times using the phone's location (latitude and longitude) based on different conventions.
+- [Ayat](https://play.google.com/store/apps/details?id=sa.edu.ksu.Ayat) : Ayat : Al Quran : KSU-Electronic Mosshaf project.
+
 #### Windows Phone
 - [Hijri Calendar](https://www.microsoft.com/en-us/store/apps/hijri-calendar/9wzdncrfhxtl) : Hijri Calendar provides you with a calendar showing the current Hijri date, updates the app's live tile and reminds you of important islamic events.
 - [Al-Azkar](https://www.microsoft.com/en-us/store/apps/%D8%A7%D9%84%D8%A7%D8%B0%D9%83%D8%A7%D8%B1/9wzdncrdhn6w) : provides you with different Azkar
@@ -191,6 +199,9 @@ Your contributions are always welcome!
 #### Linux
 
 - [Zekr Quran](http://zekr.org/quran/en/quran-for-linux)
+
+### Wearables Apps
+- [My Prayer wear](https://play.google.com/store/apps/details?id=com.haz.prayer.wear) : My Prayer wear is only for smartwatches running Android Wear.
 
 ## License
 
