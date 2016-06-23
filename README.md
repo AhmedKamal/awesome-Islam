@@ -203,6 +203,9 @@ Your contributions are always welcome!
 ### Wearables Apps
 - [My Prayer wear](https://play.google.com/store/apps/details?id=com.haz.prayer.wear) : My Prayer wear is only for smartwatches running Android Wear.
 
+### Browser Extensions
+- [Zikr](https://chrome.google.com/webstore/detail/zikr/dechcjncbhilapicebooedmhphhiglef?hl=en-US&gl=EG) : Zikr app make it easy for you to listen Holy Quran much more faster and easier with professional Quran player  
+
 ## License
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
