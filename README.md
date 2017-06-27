@@ -61,6 +61,7 @@ Your contributions are always welcome!
 -  [ITL-Java](https://github.com/fikr4n/itl-java) : ITL Java is a Java library based on LGPL-licensed ITL (Islamic Tools and Libraries), currently includes prayer times (salat), Hijri date, and qibla direction.
 - [iclib-java](https://github.com/fikr4n/iclib-java) : Islamic Calculation Library (ICLib) contains calculations for prayer (salat) times, qibla direction, and Hijri conversion
 - [Pray-Times](https://github.com/abodehq/Pray-Times/tree/master/Code/v2/java) : an open-source library for calculating Muslim prayers times.
+- [Android-Open-Hadith-Project](https://github.com/mhashim6/Android-Open-Hadith-Project) : An open Hadith Library for Android that encapsulates databases of 'Sahih Al-Bukhari' and Sahih Muslim.
 
 #### Javascript
 - [node,websql and javascript API for Holy quran] (https://github.com/qzaidi/quran) : node,websql and javascript API for Holy quran http://qzaidi.github.io/quran/
@@ -137,6 +138,7 @@ Your contributions are always welcome!
 - [Quran-Corpus](http://corpus.quran.com/) :  Quranic Arabic Corpus, an annotated linguistic resource which shows the Arabic grammar, syntax and morphology for each word in the Holy Quran. The corpus provides three levels of analysis: morphological annotation, a syntactic treebank and a semantic ontology.
 - [Hadith-islamware](https://github.com/ceefour/hadith-islamware) : Hadith database from Islam Ware https://www.islamware.com/app/downloads
 - [PDF Quran](https://github.com/abodehq/QuranPDF) : PDF version for Quran in different languages
+- [Open-Hadith-Data-Project](https://github.com/mhashim6/Open-Hadith-Data-Project) : An open Hadith Library that contains full databases of 9 different books.
 
 #### Sound
 
