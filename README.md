@@ -190,6 +190,7 @@ Your contributions are always welcome!
 - [Quran.com](https://github.com/quran)
 - [Alfanous-team](https://github.com/Alfanous-team)
 - [Ojuba](http://ojuba.org/wiki/doku.php)
+- [Fekra computers](https://github.com/fekracomputers/):[fekracomputers.github.io](https://fekracomputers.github.io/)
 
 
 ## Best Free Islamic Software
