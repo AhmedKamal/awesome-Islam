@@ -129,6 +129,11 @@ Your contributions are always welcome!
   - [Quran.com front end](https://github.com/quran/quran.com-frontend)
   - [Waqt.com](https://github.com/quran/waqt.org) : website for calculating muslim prayertimes. http://waqt.org
   - [IslamSource](https://github.com/GregoryMorse/IslamSource) : Islam Source Quran, hadith, Islamic information metadata project http://islamsource.info
+  - [Quran website](https://github.com/fekracomputers/QuranWebsite)
+  - [Hadith Encyclopedia](https://github.com/fekracomputers/HadithEncyclopediaWebsite)
+  - [Islamic Library](https://github.com/fekracomputers/IslamicLibraryWebsite)
+  - [Muslim mate website](https://github.com/fekracomputers/MuslimMateWebsite)
+  
 ### Browser Extensions
 - [Prayer Times Extension](https://github.com/mohamedmansour/prayer-times-extension)
 
@@ -163,6 +168,11 @@ Your contributions are always welcome!
 - [Quran.com Images](https://github.com/quran/quran.com-images) : images using fonts from King Fahed Complex / qurancomplex.org http://quran.com
 - [Athkar Images](https://github.com/abodehq/athkar)
 - [God Names Images](https://github.com/abodehq/God-Names)
+
+#### Web APIs
+- [Islamic library api](https://github.com/fekracomputers/IslamicLibraryWebservice) : Islamic books, authors and metadata
+- [Hadith api](https://github.com/fekracomputers/HadithWebservice)
+- [muslim mate api](https://github.com/fekracomputers/MuslimMateWebservice) :prayertime, qibla and hijri date
 
 #### Fonts
 
