@@ -197,8 +197,11 @@ Your contributions are always welcome!
 ### Mobile Apps
 
 #### IOS
-
-- [Al-Quran](https://itunes.apple.com/app/iphoneislam-mushaf-mshf-ay/id328962407?mt=8)
+- [Golden Quran](https://itunes.apple.com/us/app/golden-quran-%D8%A7%D9%84%D9%85%D8%B5%D8%AD%D9%81-%D8%A7%D9%84%D8%B0%D9%87%D8%A8%D9%8A/id852497554?mt=8) One of the best quran apps in App store if not the best. It has multiple different features that aren't available in other competing apps including Context based Ayah coloring, Tafser popups.
+- [Khatmah](https://itunes.apple.com/us/app/khatmah-%D8%AE%D8%AA%D9%85%D8%A9/id543090051?mt=8)
+Khatmah will help you keep reading your quranic werd every day easily.
+- [iPhoneIslam Mus'haf](https://itunes.apple.com/app/iphoneislam-mushaf-mshf-ay/id328962407?mt=8)
+- [Muslim Pro](https://itunes.apple.com/us/app/muslim-pro-ramadan-2017-prayer-times-azan-quran/id388389451?mt=8)
 - [Qamardeen](http://qamardeen.com/) :  an app that tells you how well you've been praying this week, how regularly you've been reading Quran this month, and how steadily you've been fasting this year.
 - [Prayer Times Today](https://itunes.apple.com/us/app/prayer-times-today/id921754326?mt=8) : The most simple way to view Muslim prayer times. With very elegant and easy today extension you can now view Muslim prayer times so fast.
 - [Hijri Calendar](https://itunes.apple.com/us/app/hijri-calendar/id410453117?mt=8) : a cool hirjri calendar that has multiple features
@@ -207,6 +210,8 @@ Your contributions are always welcome!
 
 - [My Prayer](https://play.google.com/store/apps/details?id=com.haz.prayer) : This app calculates Muslims prayer times using the phone's location (latitude and longitude) based on different conventions.
 - [Ayat](https://play.google.com/store/apps/details?id=sa.edu.ksu.Ayat) : Ayat : Al Quran : KSU-Electronic Mosshaf project.
+- [Khatmah](https://play.google.com/store/apps/details?id=com.khatmah.android&hl=ar)
+Khatmah will help you keep reading your quranic werd every day easily.
 
 #### Windows Phone
 - [Hijri Calendar](https://www.microsoft.com/en-us/store/apps/hijri-calendar/9wzdncrfhxtl) : Hijri Calendar provides you with a calendar showing the current Hijri date, updates the app's live tile and reminds you of important islamic events.
