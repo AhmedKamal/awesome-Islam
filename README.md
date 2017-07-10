@@ -113,12 +113,12 @@ Your contributions are always welcome!
 
 
 ##### Books
-- [Islamic Library for android](https://github.com/fekracomputers/IslamicLibraryAndroid) : Book reading app for Islamic books based on (shamela.ws) books with unique features in browsing ,reading and searching books
+- [Islamic Library for android](https://github.com/fekracomputers/IslamicLibraryAndroid) : Book reading app for Islamic books based on (shamela.ws) books with unique features in commenting, browsing ,reading and searching books
 - [MatnAjrumiyyah](https://github.com/khalid-hussain/MatnAjrumiyyah) : an Android app for Matn Al-Ajurumiyyah.
 
-##### Audio
+##### Media 
 - [Islamic Stremaer Android](https://github.com/hammady/Islamic-Streamer-Android) : Stream Islamic audio content (Quran, lessons, videos, ...) on your Android phone
-- []()
+
 
 #### Windows Phone
   - [Quran Phone] (https://github.com/stankovski/quran-phone) : Quran Phone is a free, open source Quran application for Windows Phone based on Quran Android project (http://android.quran.com/).
