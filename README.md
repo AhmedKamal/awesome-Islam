@@ -64,7 +64,7 @@ Your contributions are always welcome!
 - [Ummalqura calendar](https://github.com/msarhan/ummalqura-calendar) : percise implementation for java.util.calender for Ummalqura Hijri calender which produces result as the official one  
 
 #### Javascript
-- [node,websql and javascript API for Holy quran] (https://github.com/qzaidi/quran) : node,websql and javascript API for Holy quran http://qzaidi.github.io/quran/
+- [node,websql and javascript API for Holy quran](https://github.com/qzaidi/quran) : node,websql and javascript API for Holy quran http://qzaidi.github.io/quran/
 - [Pray-Times](https://github.com/abodehq/Pray-Times/tree/master/Code/v2/js) : an open-source library for calculating Muslim prayers times.
 
 
@@ -122,7 +122,7 @@ Your contributions are always welcome!
 
 
 #### Windows Phone
-  - [Quran Phone] (https://github.com/stankovski/quran-phone) : Quran Phone is a free, open source Quran application for Windows Phone based on Quran Android project (http://android.quran.com/).
+  - [Quran Phone](https://github.com/stankovski/quran-phone) : Quran Phone is a free, open source Quran application for Windows Phone based on Quran Android project (http://android.quran.com/).
   - [alfanous-wp](https://github.com/Alfanous-team/alfanous4wp): mobile app client for [alfanous](http://www.alfanous.org)
 
 ### Web Apps
