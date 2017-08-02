@@ -90,6 +90,9 @@ Your contributions are always welcome!
 #### PHP
 - [Pray-Times](https://github.com/abodehq/Pray-Times/tree/master/Code/v2/php): an open-source library for calculating Muslim prayers times.
 
+#### Android
+- [HijriDatePicker](https://github.com/alhazmy13/HijriDatePicker) :Material (Gregorian - Hijri) Date & Time Picker
+
 ### Mobile Apps
 
 #### Cross Platform
