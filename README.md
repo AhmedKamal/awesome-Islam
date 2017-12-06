@@ -144,6 +144,9 @@ Your contributions are always welcome!
 ### Desktop Apps
 - [Minbar](https://github.com/arabeyes-org/ITL-programs/tree/master/minbar) : Minbar is a GNOME Islamic prayer times application on top of libitl
 - [Monajat](https://github.com/ojuba-org/monajat)
+- Azan : Azan is an Islamic prayer time application. It lists 5 prayer times and other necessary times in Islam. It also displays a notification when prayer time is coming.
+  - [Azan (Cinnamon Applet)](https://cinnamon-spices.linuxmint.com/applets/view/303)
+  - [Azan (Gnome Shell Extension)](https://extensions.gnome.org/extension/1344/azan/)
 
 ### MISC
 
