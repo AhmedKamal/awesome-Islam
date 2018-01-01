@@ -159,7 +159,7 @@ Your contributions are always welcome!
 - [Quran-CSV](https://github.com/azvox/quran-csv) : This Quran csv files contains all known translations and recitations as well as images and other resources.
 - [Quran-Corpus](http://corpus.quran.com/) :  Quranic Arabic Corpus, an annotated linguistic resource which shows the Arabic grammar, syntax and morphology for each word in the Holy Quran. The corpus provides three levels of analysis: morphological annotation, a syntactic treebank and a semantic ontology.
 - [Hadith-islamware](https://github.com/ceefour/hadith-islamware) : Hadith database from Islam Ware https://www.islamware.com/app/downloads
-- [Open-Hadith-Data](https://github.com/mhashim6/Open-Hadith-Data) : Open Hadith Library that contains full databases of 9 different books.
+- [Open-Hadith-Data](https://github.com/mhashim6/Open-Hadith-Data) : Open Hadith Library that contains full databases of 9 different books. (with & without Arabic diacritics to allow proper searching. UTF-8 encoded).
 - [PDF Quran](https://github.com/abodehq/QuranPDF) : PDF version for Quran in different languages
 
 #### Sound
