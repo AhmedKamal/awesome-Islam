@@ -15,7 +15,7 @@ Your contributions are always welcome!
   - [APIs & Libraries](#apis--libraries)
     - [C++](#c)
     - [Java](#java)
-    - [JavaScript](#java-script)
+    - [JavaScript](#javascript)
     - [Python](#python)
     - [Objective-C](#objective-c)
     - [Swift](#swift)
