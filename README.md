@@ -15,7 +15,7 @@ Your contributions are always welcome!
   - [APIs & Libraries](#apis--libraries)
     - [C++](#c)
     - [Java](#java)
-    - [JavaScript](#java-script)
+    - [JavaScript](#javascript)
     - [Python](#python)
     - [Objective-C](#objective-c)
     - [Swift](#swift)
@@ -66,7 +66,7 @@ Your contributions are always welcome!
 #### Javascript
 - [node,websql and javascript API for Holy quran](https://github.com/qzaidi/quran) : node,websql and javascript API for Holy quran http://qzaidi.github.io/quran/
 - [Pray-Times](https://github.com/abodehq/Pray-Times/tree/master/Code/v2/js) : an open-source library for calculating Muslim prayers times.
-
+- [Quran-CLI](https://github.com/sarfraznawaz2005/quran-cli) : Read/Recite The Holy Quran from the commandline with English translation.
 
 #### Python
 - [Django-Quran](https://github.com/idris/django-quran) : Quranic models and helpers for use in Django projects http://www.openislam.org/
