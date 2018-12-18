@@ -245,6 +245,7 @@ Khatmah will help you keep reading your quranic werd every day easily.
 
 ### Browser Extensions
 - [Zikr](https://chrome.google.com/webstore/detail/zikr/dechcjncbhilapicebooedmhphhiglef?hl=en-US&gl=EG) : Zikr app make it easy for you to listen Holy Quran much more faster and easier with professional Quran player  
+- [QuranTab](https://chrome.google.com/webstore/detail/quran-tab/afaihcdgkjebgabomemccdneglknjkdd?hl=en) : QuranTab is islamic new tab page, will keep you inspired by a verse from Quran every time you open a new tab.  
 
 ## License
 
