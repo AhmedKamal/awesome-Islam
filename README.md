@@ -182,7 +182,8 @@ Your contributions are always welcome!
 - [Islamic library api](https://github.com/fekracomputers/IslamicLibraryWebservice) : Islamic books, authors and metadata
 - [Hadith api](https://github.com/fekracomputers/HadithWebservice)
 - [muslim mate api](https://github.com/fekracomputers/MuslimMateWebservice) :prayertime, qibla and hijri date
-- [tafseer api] (https://github.com/emadmokhtar/tafseer_api) :  Quran Tafseer REST APIs and Quran Text
+- [tafseer api](https://github.com/emadmokhtar/tafseer_api) :  Quran Tafseer REST APIs and Quran Text
+- [Dorar api](https://www.dorar.net/article/389/%D8%AE%D8%AF%D9%85%D8%A9-%D9%88%D8%A7%D8%AC%D9%87%D8%A9-%D8%A7%D9%84%D9%85%D9%88%D8%B3%D9%88%D8%B9%D8%A9-%D8%A7%D9%84%D8%AD%D8%AF%D9%8A%D8%AB%D9%8A%D8%A9-API?fbclid=IwAR1MluDosTl0DcnjWdv6hBDPbVSRUryJqfhA4V5E_x1N6PNdK4tmMYCBGFs) :  A Hadith API (Arabic).
 #### Fonts
 
 * [Amiri Font](http://www.amirifont.org) : a classical Arabic typeface in Naskh style for typesetting books and other running text.
