@@ -222,6 +222,8 @@ Khatmah will help you keep reading your quranic werd every day easily.
 - [Ayat](https://play.google.com/store/apps/details?id=sa.edu.ksu.Ayat) : Ayat : Al Quran : KSU-Electronic Mosshaf project.
 - [Khatmah](https://play.google.com/store/apps/details?id=com.khatmah.android&hl=ar)
 Khatmah will help you keep reading your quranic werd every day easily.
+- [Wazaker - Daily Aya](https://play.google.com/store/apps/details?id=com.wazakerdailyaya)
+Get a message from The Holy Quran every day in a new and simple way.
 
 #### Windows Phone
 - [Hijri Calendar](https://www.microsoft.com/en-us/store/apps/hijri-calendar/9wzdncrfhxtl) : Hijri Calendar provides you with a calendar showing the current Hijri date, updates the app's live tile and reminds you of important islamic events.
