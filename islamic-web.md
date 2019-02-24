@@ -1,4 +1,4 @@
-This aims to be a listing of all the trust worthy islamic website based on different sources.
+This aims to be a unified listing for all the trust worthy islamic website based on different sources.
 
 Islamic Websites (Based on http://bilalphilips.com/islamic-websites/)
 

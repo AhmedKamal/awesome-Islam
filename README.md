@@ -15,7 +15,7 @@ Your contributions are always welcome!
   - [APIs & Libraries](#apis--libraries)
     - [C++](#c)
     - [Java](#java)
-    - [JavaScript](#java-script)
+    - [JavaScript](#javascript)
     - [Python](#python)
     - [Objective-C](#objective-c)
     - [Swift](#swift)
@@ -66,7 +66,7 @@ Your contributions are always welcome!
 #### Javascript
 - [node,websql and javascript API for Holy quran](https://github.com/qzaidi/quran) : node,websql and javascript API for Holy quran http://qzaidi.github.io/quran/
 - [Pray-Times](https://github.com/abodehq/Pray-Times/tree/master/Code/v2/js) : an open-source library for calculating Muslim prayers times.
-
+- [Quran-CLI](https://github.com/sarfraznawaz2005/quran-cli) : Read/Recite The Holy Quran from the commandline with English translation.
 
 #### Python
 - [Django-Quran](https://github.com/idris/django-quran) : Quranic models and helpers for use in Django projects http://www.openislam.org/
@@ -105,6 +105,7 @@ Your contributions are always welcome!
   - [alfanous-android](https://github.com/AhmedSalem/alfanous-android) : mobile app client for [alfanous](http://www.alfanous.org)
   - [Quran for Android by Fekra computers](https://github.com/fekracomputers/QuranAndroid) :  free Quran android application with audio recitation
   - [Kids Quran Android](https://github.com/abodehq/Kids-Quran-Android-v1) : an interactive app for motivating children to learn Quran
+- [Word By Word Quran](https://github.com/SadaqaWorks/Word-By-Word-Quran-Android) :Al- Quran for Android, in three language English, Indonesian, Bangla with Word by Word and grammatical analysis.
 
 ##### Prayer time and hijri date
 - [Hijri Calendar](https://github.com/abodehq/Hijri-Calendar) : Hijri Calendar [app](https://play.google.com/store/apps/details?id=com.mos7af.hijri) for android
@@ -159,6 +160,7 @@ Your contributions are always welcome!
 - [Quran-CSV](https://github.com/azvox/quran-csv) : This Quran csv files contains all known translations and recitations as well as images and other resources.
 - [Quran-Corpus](http://corpus.quran.com/) :  Quranic Arabic Corpus, an annotated linguistic resource which shows the Arabic grammar, syntax and morphology for each word in the Holy Quran. The corpus provides three levels of analysis: morphological annotation, a syntactic treebank and a semantic ontology.
 - [Hadith-islamware](https://github.com/ceefour/hadith-islamware) : Hadith database from Islam Ware https://www.islamware.com/app/downloads
+- [Open-Hadith-Data](https://github.com/mhashim6/Open-Hadith-Data) : Open Hadith Library that contains full databases of 9 different books. (with & without Arabic diacritics to allow proper searching. UTF-8 encoded).
 - [PDF Quran](https://github.com/abodehq/QuranPDF) : PDF version for Quran in different languages
 
 #### Sound
@@ -177,7 +179,8 @@ Your contributions are always welcome!
 - [Islamic library api](https://github.com/fekracomputers/IslamicLibraryWebservice) : Islamic books, authors and metadata
 - [Hadith api](https://github.com/fekracomputers/HadithWebservice)
 - [muslim mate api](https://github.com/fekracomputers/MuslimMateWebservice) :prayertime, qibla and hijri date
-- [tafseer api] (https://github.com/emadmokhtar/tafseer_api) :  Quran Tafseer REST APIs and Quran Text
+- [tafseer api](https://github.com/emadmokhtar/tafseer_api) :  Quran Tafseer REST APIs and Quran Text
+- [Dorar api](https://www.dorar.net/article/389/%D8%AE%D8%AF%D9%85%D8%A9-%D9%88%D8%A7%D8%AC%D9%87%D8%A9-%D8%A7%D9%84%D9%85%D9%88%D8%B3%D9%88%D8%B9%D8%A9-%D8%A7%D9%84%D8%AD%D8%AF%D9%8A%D8%AB%D9%8A%D8%A9-API?fbclid=IwAR1MluDosTl0DcnjWdv6hBDPbVSRUryJqfhA4V5E_x1N6PNdK4tmMYCBGFs) :  A Hadith API (Arabic).
 #### Fonts
 
 * [Amiri Font](http://www.amirifont.org) : a classical Arabic typeface in Naskh style for typesetting books and other running text.
@@ -216,6 +219,8 @@ Khatmah will help you keep reading your quranic werd every day easily.
 - [Ayat](https://play.google.com/store/apps/details?id=sa.edu.ksu.Ayat) : Ayat : Al Quran : KSU-Electronic Mosshaf project.
 - [Khatmah](https://play.google.com/store/apps/details?id=com.khatmah.android&hl=ar)
 Khatmah will help you keep reading your quranic werd every day easily.
+- [Wazaker - Daily Aya](https://play.google.com/store/apps/details?id=com.wazakerdailyaya)
+Get a message from The Holy Quran every day in a new and simple way.
 
 #### Windows Phone
 - [Hijri Calendar](https://www.microsoft.com/en-us/store/apps/hijri-calendar/9wzdncrfhxtl) : Hijri Calendar provides you with a calendar showing the current Hijri date, updates the app's live tile and reminds you of important islamic events.
@@ -240,6 +245,7 @@ Khatmah will help you keep reading your quranic werd every day easily.
 
 ### Browser Extensions
 - [Zikr](https://chrome.google.com/webstore/detail/zikr/dechcjncbhilapicebooedmhphhiglef?hl=en-US&gl=EG) : Zikr app make it easy for you to listen Holy Quran much more faster and easier with professional Quran player  
+- [QuranTab](https://chrome.google.com/webstore/detail/quran-tab/afaihcdgkjebgabomemccdneglknjkdd?hl=en) : QuranTab is islamic new tab page, will keep you inspired by a verse from Quran every time you open a new tab.  
 
 ## License
 
