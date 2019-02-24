@@ -92,6 +92,7 @@ Your contributions are always welcome!
 
 #### Android
 - [HijriDatePicker](https://github.com/alhazmy13/HijriDatePicker) :Material (Gregorian - Hijri) Date & Time Picker
+- [Random Quran Verse](https://github.com/osamabinomar/quranVerses) : Random quran verse best suitable for splash screens.
 
 ### Mobile Apps
 
