@@ -249,6 +249,7 @@ Get a message from The Holy Quran every day in a new and simple way.
 ### Browser Extensions
 - [Zikr](https://chrome.google.com/webstore/detail/zikr/dechcjncbhilapicebooedmhphhiglef?hl=en-US&gl=EG) : Zikr app make it easy for you to listen Holy Quran much more faster and easier with professional Quran player  
 - [QuranTab](https://chrome.google.com/webstore/detail/quran-tab/afaihcdgkjebgabomemccdneglknjkdd?hl=en) : QuranTab is islamic new tab page, will keep you inspired by a verse from Quran every time you open a new tab.  
+- [Quran In New Tab](https://chrome.google.com/webstore/detail/quran-in-new-tab/hggkcijghhpkdjeokpfgbhnpecliiijg?authuser=1) : Replace the new tab page with Quran verses and beautiful nature pictures. You can also hear a recitation of the verses, and translations as well.
 
 ## License
 
