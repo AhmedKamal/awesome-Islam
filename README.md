@@ -139,9 +139,11 @@ Your contributions are always welcome!
   - [Hadith Encyclopedia](https://github.com/fekracomputers/HadithEncyclopediaWebsite)
   - [Islamic Library](https://github.com/fekracomputers/IslamicLibraryWebsite)
   - [Muslim mate website](https://github.com/fekracomputers/MuslimMateWebsite)
+  - [Al Quran Cloud](https://github.com/islamic-network/alquran.cloud)
 
 ### Browser Extensions
 - [Prayer Times Extension](https://github.com/mohamedmansour/prayer-times-extension)
+- [Quran In New Tab Extension](https://github.com/shahednasser/quran-extension)
 
 ### Desktop Apps
 - [Minbar](https://github.com/arabeyes-org/ITL-programs/tree/master/minbar) : Minbar is a GNOME Islamic prayer times application on top of libitl
