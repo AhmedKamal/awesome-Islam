@@ -1,4 +1,4 @@
-# awesome-Islam
+# Awesome-Islam
 A curated list of awesome islam related projects, frameworks, resources and other awesomeness.
 
 #### The aim of this list is to
@@ -62,6 +62,7 @@ Your contributions are always welcome!
 - [iclib-java](https://github.com/fikr4n/iclib-java) : Islamic Calculation Library (ICLib) contains calculations for prayer (salat) times, qibla direction, and Hijri conversion
 - [Pray-Times](https://github.com/abodehq/Pray-Times/tree/master/Code/v2/java) : an open-source library for calculating Muslim prayers times.
 - [Ummalqura calendar](https://github.com/msarhan/ummalqura-calendar) : percise implementation for java.util.calender for Ummalqura Hijri calender which produces result as the official one  
+- [Quran for Android](https://github.com/quran/quran_android) : a best qur'an android app, with many features and free from ads
 
 #### Javascript
 - [node,websql and javascript API for Holy quran](https://github.com/qzaidi/quran) : node,websql and javascript API for Holy quran http://qzaidi.github.io/quran/
