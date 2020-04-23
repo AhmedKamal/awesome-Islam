@@ -132,7 +132,7 @@ Your contributions are always welcome!
 
 ### Web Apps
   - [Quran Dev](https://github.com/qurandev/qurandev) : Visualizing Quranic data from different websites in easy browser accessible, offline capable, iphone friendly webpages.
-  - [Quran.com front end](https://github.com/quran/quran.com-frontend)
+  - [Quran.com front end](https://github.com/quran/quran.com-frontend-v2)
   - [Waqt.com](https://github.com/quran/waqt.org) : website for calculating muslim prayertimes. http://waqt.org
   - [IslamSource](https://github.com/GregoryMorse/IslamSource) : Islam Source Quran, hadith, Islamic information metadata project http://islamsource.info
   - [Quran website](https://github.com/fekracomputers/QuranWebsite)
