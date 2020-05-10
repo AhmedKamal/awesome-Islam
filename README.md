@@ -21,6 +21,7 @@ Your contributions are always welcome!
     - [Swift](#swift)
     - [.NET](#net)
     - [PHP](#php)
+  - [Machine Learning & AI](#ml)
   - [Mobile Apps](#mobile-apps)
     - [Cross Platform](#cross-platform)
     - [Android](#android)
@@ -28,7 +29,7 @@ Your contributions are always welcome!
   - [Web Apps](#web-apps)
   - [Desktop Apps](#desktop-apps)
   - [Browser Extensions](#browser-extensions)
-  - [Miscallenious](#miscallenious)
+  - [MISC](#misc)
   - [Development Resources](#development-resources)
     - [Text](#text)
     - [Sound](#sound)
@@ -82,7 +83,10 @@ Your contributions are always welcome!
 #### Android
 - [HijriDatePicker](https://github.com/alhazmy13/HijriDatePicker) :Material (Gregorian - Hijri) Date & Time Picker
 - [Random Quran Verse](https://github.com/osamabinomar/quranVerses) : Random quran verse best suitable for splash screens.
-
+---
+### Machine Learning & AI
+- [Tarteel](https://github.com/Tarteel-io/tarteel-ml): Developing the next generation of AI powered Muslim Apps
+---
 ### Mobile Apps
 
 #### Cross Platform
@@ -94,7 +98,7 @@ Your contributions are always welcome!
   - [Quran Android](https://github.com/quran/quran_android) : a quran reading application for android http://android.quran.com
   - [alfanous-android](https://github.com/AhmedSalem/alfanous-android) : mobile app client for [alfanous](http://www.alfanous.org)
   - [Quran for Android by Fekra computers](https://github.com/fekracomputers/QuranAndroid) :  free Quran android application with audio recitation
-  - [Kids Quran Android](https://github.com/abodehq/Kids-Quran-Android-v1) : an interactive app for motivating children to learn Quran
+- [Kids Quran Android](https://github.com/abodehq/Kids-Quran-Android-v1) : an interactive app for motivating children to learn Quran
 - [Word By Word Quran](https://github.com/SadaqaWorks/Word-By-Word-Quran-Android) :Al- Quran for Android, in three language English, Indonesian, Bangla with Word by Word and grammatical analysis.
 
 ##### Prayer time and hijri date
@@ -139,13 +143,11 @@ Your contributions are always welcome!
 - [Monajat](https://github.com/ojuba-org/monajat)
 - [Azan](https://github.com/fahrinh/azan-gnome-shell-extension) : Azan is an Islamic prayer times extension for Gnome Shell
 ### MISC
-
 - [Alfanous](https://github.com/assem-ch/alfanous) : Alfanous (The Lantern - الفانوس ) is an Arabic search engine API provide the simple and advanced search in the Holy Quran , more features and many interfaces... http://www.alfanous.org
 - [Quran Research Tool](https://github.com/oazabir/Quran)
 - [IslamicTextAHK](https://github.com/khalid-hussain/IslamicTextAHK) : This is an app developed using AutoHotkey scripting to help expand most commonly used Islamic terms while allowing the user to edit the defaults and/or add their own custom expansions.
-- [Islamic Dictionary](https://github.com/islamic-dictionary/islamic-dictionary) : The Islamic Dictionary database and audio files (from islamic-dictionary.com) http://www.islamic-dictionary.com
 
-
+---
 ### Development Resources
 
 #### Text
@@ -182,11 +184,11 @@ Your contributions are always welcome!
 
 
 ## Teams
-
 - [Global Quran](https://github.com/GlobalQuran)
 - [Quran.com](https://github.com/quran)
 - [Alfanous-team](https://github.com/Alfanous-team)
-- [Fekra computers](https://github.com/fekracomputers/):[fekracomputers.github.io](https://fekracomputers.github.io/)
+- [Fekra computers](https://github.com/fekracomputers/)
+- [Tarteel IO](https://github.com/Tarteel-io)
 
 
 ## Best Free Islamic Software
