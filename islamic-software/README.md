@@ -1,3 +1,13 @@
+  - [Mobile Apps](#mobile-apps-1)
+    - [IOS](#ios)
+    - [Android](#android-1)
+    - [Windows Phone](#windows-phone-1)
+  - [Desktop Apps](#desktop-apps)
+    - [Windows](#windows)
+    - [Mac](#mac)
+    - [Linux](#linux)
+  - [Wearables Apps](#wearables)
+
 ### Mobile Apps
 
 #### IOS
