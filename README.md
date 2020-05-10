@@ -194,12 +194,9 @@ Your contributions are always welcome!
 
 ## Teams
 
-- [Sabily Team](http://www.sabily.org/website/)
-  - PPA : https://launchpad.net/~sabily.team/+archive/ubuntu/ppa
 - [Global Quran](https://github.com/GlobalQuran)
 - [Quran.com](https://github.com/quran)
 - [Alfanous-team](https://github.com/Alfanous-team)
-- [Ojuba](http://ojuba.org/wiki/doku.php)
 - [Fekra computers](https://github.com/fekracomputers/):[fekracomputers.github.io](https://fekracomputers.github.io/)
 
 
