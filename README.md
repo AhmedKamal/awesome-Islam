@@ -170,6 +170,7 @@ Your contributions are always welcome!
 - [God Names Images](https://github.com/abodehq/God-Names)
 
 #### Web APIs
+- [Sunnah.com API](https://github.com/sunnah-com/api) : API providing hadith data from [sunnah.com](https://sunnah.com) 
 - [Islamic library api](https://github.com/fekracomputers/IslamicLibraryWebservice) : Islamic books, authors and metadata
 - [Hadith api](https://github.com/fekracomputers/HadithWebservice)
 - [muslim mate api](https://github.com/fekracomputers/MuslimMateWebservice) :prayertime, qibla and hijri date
