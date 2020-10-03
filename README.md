@@ -133,6 +133,9 @@ Your contributions are always welcome!
   - [Islamic Library](https://github.com/fekracomputers/IslamicLibraryWebsite)
   - [Muslim mate website](https://github.com/fekracomputers/MuslimMateWebsite)
   - [Al Quran Cloud](https://github.com/islamic-network/alquran.cloud)
+  - [Offline Quran](https://github.com/mazipan/quran-offline)
+
+  
 
 ### Browser Extensions
 - [Prayer Times Extension](https://github.com/mohamedmansour/prayer-times-extension)
