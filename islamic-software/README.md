@@ -40,8 +40,9 @@ Get a message from The Holy Quran every day in a new and simple way.
 #### Windows
 - [Ela-Salaty](http://www.ela-salaty.com/)
 
-#### OSX
+#### macOS
 - [Guidance](http://guidanceapp.com/) : Guidance is a prayer times application for Mac OS X that plays the Adhan when it is time for prayer. Designed to be simple and elegant
+- [Salaty] (https://salaty.app/) : Salaty is a Modern Prayer Times App for macOS which is thoughtfully designed giving you more insights into time.
 
 #### Linux
 
