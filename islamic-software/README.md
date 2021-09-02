@@ -39,6 +39,7 @@ Get a message from The Holy Quran every day in a new and simple way.
 
 #### Windows
 - [Ela-Salaty](http://www.ela-salaty.com/)
+- [Azkar](https://github.com/AbdelrahmanBayoumi/Azkar-App) : Desktop Application shows notification for Azkar that pops-up every specific time, Calculating Muslim prayer times (for any location), and Morning and Nights Azkar with reminder.
 
 #### macOS
 - [Guidance](http://guidanceapp.com/) : Guidance is a prayer times application for Mac OS X that plays the Adhan when it is time for prayer. Designed to be simple and elegant
