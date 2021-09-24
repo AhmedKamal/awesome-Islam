@@ -143,7 +143,7 @@ Your contributions are always welcome!
 - [Minbar](https://github.com/arabeyes-org/ITL-programs/tree/master/minbar) : Minbar is a GNOME Islamic prayer times application on top of libitl
 - [Monajat](https://github.com/ojuba-org/monajat)
 - [Azan](https://github.com/fahrinh/azan-gnome-shell-extension) : Azan is an Islamic prayer times extension for Gnome Shell
-- [Kizana](https://github.com/elkizana/kizana) : An Open source and multi-platform Shamela alternative.
+- [Kizana](https://github.com/elkizana/kizana) : An Open source and multi-platform Shamela alternative 
 ### MISC
 - [Alfanous](https://github.com/assem-ch/alfanous) : Alfanous (The Lantern - الفانوس ) is an Arabic search engine API provide the simple and advanced search in the Holy Quran , more features and many interfaces... http://www.alfanous.org
 - [Quran Research Tool](https://github.com/oazabir/Quran)
