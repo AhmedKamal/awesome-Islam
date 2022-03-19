@@ -159,7 +159,6 @@ Your contributions are always welcome!
 - [Open-Hadith-Data](https://github.com/mhashim6/Open-Hadith-Data) : Open Hadith Library that contains full databases of 9 different books. (with & without Arabic diacritics to allow proper searching. UTF-8 encoded).
 - [PDF Quran](https://github.com/abodehq/QuranPDF) : PDF version for Quran in different languages
 - [Hisn Al muslim json](https://github.com/rn0x/hisn_almuslim_json) : book Hisn Al muslim File Json 
-- [Hisn Al muslim json](https://github.com/rn0x/hisn_almuslim_json) : book Hisn Al muslim File Json 
 - [Names Of Allah json](https://github.com/rn0x/Names_Of_Allah_Json) : Names Of Allah File Json
 
 #### Sound
