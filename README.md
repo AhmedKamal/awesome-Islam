@@ -143,6 +143,7 @@ Your contributions are always welcome!
 - [Minbar](https://github.com/arabeyes-org/ITL-programs/tree/master/minbar) : Minbar is a GNOME Islamic prayer times application on top of libitl
 - [Monajat](https://github.com/ojuba-org/monajat)
 - [Azan](https://github.com/fahrinh/azan-gnome-shell-extension) : Azan is an Islamic prayer times extension for Gnome Shell
+- [Altaqwaa](https://github.com/rn0x/Altaqwaa-Islamic-Desktop-Application) : Application of Quran, Adhkar and Prayer times for desktop devices
 ### MISC
 - [Alfanous](https://github.com/assem-ch/alfanous) : Alfanous (The Lantern - الفانوس ) is an Arabic search engine API provide the simple and advanced search in the Holy Quran , more features and many interfaces... http://www.alfanous.org
 - [Quran Research Tool](https://github.com/oazabir/Quran)
@@ -157,6 +158,9 @@ Your contributions are always welcome!
 - [Hadith-islamware](https://github.com/ceefour/hadith-islamware) : Hadith database from Islam Ware https://www.islamware.com/app/downloads
 - [Open-Hadith-Data](https://github.com/mhashim6/Open-Hadith-Data) : Open Hadith Library that contains full databases of 9 different books. (with & without Arabic diacritics to allow proper searching. UTF-8 encoded).
 - [PDF Quran](https://github.com/abodehq/QuranPDF) : PDF version for Quran in different languages
+- [Hisn Al muslim json](https://github.com/rn0x/hisn_almuslim_json) : book Hisn Al muslim File Json 
+- [Hisn Al muslim json](https://github.com/rn0x/hisn_almuslim_json) : book Hisn Al muslim File Json 
+- [Names Of Allah json](https://github.com/rn0x/Names_Of_Allah_Json) : Names Of Allah File Json
 
 #### Sound
 
@@ -164,6 +168,7 @@ Your contributions are always welcome!
 - [Quranic Audio](http://quranicaudio.com/) : Quranic Audio , your source for high quality recitations of the Quran. All the Quran recitations are in high quality and are free for download and streaming as mp3s.
 - [Verse By Verse](http://www.versebyversequran.com/) : provide you with easy and free access to the Quran in MP3 format seperated into individual verse (verse by verse breakdown).
 - [prayer-times-adhan](https://github.com/abodehq/Athan-MP3) : A collection of famous adhan audios is provided.
+- [albitaqat_quran](https://github.com/rn0x/albitaqat_quran) : A project to serve the Noble Qur’an, its memorizers, and readers, by providing a comprehensive short text of the surahs of the Qur’an, its audio-visual content.
 
 #### Images
 - [Quran.com Images](https://github.com/quran/quran.com-images) : images using fonts from King Fahed Complex / qurancomplex.org http://quran.com
