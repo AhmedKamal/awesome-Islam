@@ -145,6 +145,8 @@ Your contributions are always welcome!
 - [Azan](https://github.com/fahrinh/azan-gnome-shell-extension) : Azan is an Islamic prayer times extension for Gnome Shell
 - [Altaqwaa](https://github.com/rn0x/Altaqwaa-Islamic-Desktop-Application) : Application of Quran, Adhkar and Prayer times for desktop devices
 - [Kizana](https://github.com/elkizana/kizana) : An Open source and multi-platform Shamela alternative
+- [Munadi](https://gitlab.com/munadi/munadi/) : Simple Athan App.
+- [Othman](https://github.com/ojuba-org/othman) : Quran App.
 
 ### MISC
 - [Alfanous](https://github.com/assem-ch/alfanous) : Alfanous (The Lantern - الفانوس ) is an Arabic search engine API provide the simple and advanced search in the Holy Quran , more features and many interfaces... http://www.alfanous.org
