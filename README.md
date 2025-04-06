@@ -157,7 +157,6 @@ Your contributions are always welcome!
 - [Listen Quran](https://github.com/fawazahmed0/quran-videos) : Listen Quran with subtitles in multiple languages
 - [Calculate Last 1/3 Night](https://github.com/fawazahmed0/last-third-night-calculator) : Calculate last third night for prayers
 - [Islamic Projects](https://github.com/fawazahmed0/islamic-project) : Multiple Islamic projects
-- [Ask God](https://github.com/fawazahmed0/askgod) : Ask question and get answers from Quran
 - [Quran Hadith Search Engine](https://github.com/fawazahmed0/quran-hadith-search/tree/main) : Search Quran and hadith
 
 
