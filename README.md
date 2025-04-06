@@ -86,12 +86,14 @@ Your contributions are always welcome!
 ---
 ### Machine Learning & AI
 - [Tarteel](https://github.com/Tarteel-io/tarteel-ml): Developing the next generation of AI powered Muslim Apps
+- [Quran Verse Detection](https://github.com/fawazahmed0/quran-verse-detection#readme): Detects Quran verse
 ---
 ### Mobile Apps
 
 #### Cross Platform
 - [aQuran](https://github.com/forabi/aQuran) : A mobile-optimized, cross-platform Quran app built with web technologies. http://forabi.github.io/aQuran
 - [Hadith Encyclopedia](https://github.com/fekracomputers/HadithEncyclopediaMobile) cross platform hadith app with coloring for narrators
+- [Quran In Multiple Languages](https://github.com/fawazahmed0/quran): Quran in 90+ languages 
 
 #### Android
 ##### Quran
@@ -134,6 +136,7 @@ Your contributions are always welcome!
   - [Muslim mate website](https://github.com/fekracomputers/MuslimMateWebsite)
   - [Al Quran Cloud](https://github.com/islamic-network/alquran.cloud)
   - [Praycal](https://praycal.com) : Sync Islamic prayer times with your calendar availability
+  - [Hadith in multiple languages](https://github.com/fawazahmed0/hadiths) : Hadith in multiple languages and multiple gradings
 
 ### Browser Extensions
 - [Prayer Times Extension](https://github.com/mohamedmansour/prayer-times-extension)
@@ -152,6 +155,10 @@ Your contributions are always welcome!
 - [Quran Research Tool](https://github.com/oazabir/Quran)
 - [IslamicTextAHK](https://github.com/khalid-hussain/IslamicTextAHK) : This is an app developed using AutoHotkey scripting to help expand most commonly used Islamic terms while allowing the user to edit the defaults and/or add their own custom expansions. 
 - [Islam_Bot](https://github.com/rn0x/Islam_Bot) :  bot for the Telegram application with a graphical interface that contains many services, the most important of which is the automatic dissemination of adhkar and the Qur’an to all subscribers of the bot
+- [Listen Quran](https://github.com/fawazahmed0/quran-videos) : Listen Quran with subtitles in multiple languages
+- [Calculate Last 1/3 Night](https://github.com/fawazahmed0/last-third-night-calculator) : Calculate last third night for prayers
+- [Islamic Projects](https://github.com/fawazahmed0/islamic-project) : Multiple Islamic projects
+- [Quran Hadith Search Engine](https://github.com/fawazahmed0/quran-hadith-search/tree/main) : Search Quran and hadith
 
 
 ---
@@ -187,12 +194,16 @@ Your contributions are always welcome!
 - [muslim mate api](https://github.com/fekracomputers/MuslimMateWebservice) :prayertime, qibla and hijri date
 - [tafseer api](https://github.com/emadmokhtar/tafseer_api) :  Quran Tafseer REST APIs and Quran Text
 - [Dorar api](https://www.dorar.net/article/389/%D8%AE%D8%AF%D9%85%D8%A9-%D9%88%D8%A7%D8%AC%D9%87%D8%A9-%D8%A7%D9%84%D9%85%D9%88%D8%B3%D9%88%D8%B9%D8%A9-%D8%A7%D9%84%D8%AD%D8%AF%D9%8A%D8%AB%D9%8A%D8%A9-API?fbclid=IwAR1MluDosTl0DcnjWdv6hBDPbVSRUryJqfhA4V5E_x1N6PNdK4tmMYCBGFs) :  A Hadith API (Arabic).
+- [Quran API](https://github.com/fawazahmed0/quran-api#readme) : Quran API and Quran translations in multiple languages
+- [Hadith API](https://github.com/fawazahmed0/hadith-api#readme) : Hadith API and Hadith translations in multiple languages and multiple gradings
+
 #### Fonts
 
 * [Amiri Font](http://www.amirifont.org) : a classical Arabic typeface in Naskh style for typesetting books and other running text.
 * [sahl-naskh](https://github.com/khaledhosny/sahl-naskh) : A fork of Droid Arabic Naskh font fixing some of the issues in the original font.
 * [Jozoor font](http://fonts.jozoor.com/jozoor-font/) : Jozoor arabic font (Only Regular weight is available for free).
 * [Flat font](http://fonts.jozoor.com/flat-font/) : arabic font (Only Regular weight is available for free)..
+* [Arabic fonts](https://github.com/fawazahmed0/quran-api#:~:text=Lists%20arabic%20fonts%20available%3A) : Arabic fonts API
 
 
 ## Teams
