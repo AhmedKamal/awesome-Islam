@@ -91,7 +91,8 @@ Your contributions are always welcome!
 
 #### Cross Platform
 - [aQuran](https://github.com/forabi/aQuran) : A mobile-optimized, cross-platform Quran app built with web technologies. http://forabi.github.io/aQuran
-- [Hadith Encyclopedia](https://github.com/fekracomputers/HadithEncyclopediaMobile) cross platform hadith app with coloring for narrators
+- [Hadith Encyclopedia](https://github.com/fekracomputers/HadithEncyclopediaMobile) : Cross platform hadith app with coloring for narrators
+- [Open Mushaf](https://github.com/adelpro/open-mushaf-native) : A modern Quran Mushaf application, designed for web and mobile platforms
 
 #### Android
 ##### Quran
