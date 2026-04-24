@@ -134,6 +134,7 @@ Your contributions are always welcome!
   - [Muslim mate website](https://github.com/fekracomputers/MuslimMateWebsite)
   - [Al Quran Cloud](https://github.com/islamic-network/alquran.cloud)
   - [Praycal](https://praycal.com) : Sync Islamic prayer times with your calendar availability
+  - [Write Quran](https://writequran.com) : Write Quran letter by letter
 
 ### Browser Extensions
 - [Prayer Times Extension](https://github.com/mohamedmansour/prayer-times-extension)
