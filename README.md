@@ -134,6 +134,7 @@ Your contributions are always welcome!
   - [Muslim mate website](https://github.com/fekracomputers/MuslimMateWebsite)
   - [Al Quran Cloud](https://github.com/islamic-network/alquran.cloud)
   - [Praycal](https://praycal.com) : Sync Islamic prayer times with your calendar availability
+  -   - [UmmeSaad](https://ummesaad.org) : Free Quran reader with Arabic text, Kanz-ul-Iman Urdu translation, English translation, 13+ languages, audio recitation, prayer times, and Qibla direction
 
 ### Browser Extensions
 - [Prayer Times Extension](https://github.com/mohamedmansour/prayer-times-extension)
