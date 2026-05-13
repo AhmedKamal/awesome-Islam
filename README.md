@@ -104,6 +104,7 @@ Your contributions are always welcome!
 ##### Prayer time and hijri date
 - [Hijri Calendar](https://github.com/abodehq/Hijri-Calendar) : Hijri Calendar [app](https://play.google.com/store/apps/details?id=com.mos7af.hijri) for android
 - [Muslim Mate](https://github.com/fekracomputers/MuslimMateAndroid) : Praying times, Quibla, Mosques and halal restaurant around you, date conversion from Hijri to Gregorian and vice versa.
+- [Takbeer Time](https://github.com/mjqazi/Jamat) : Free, non-profit web and Android app to find nearby masjids with crowdsourced Jumma, khutbah, iqamah, and jamat times. [Web](https://takbeertime.com/) | [Android](https://play.google.com/store/apps/details?id=com.takbeertime.android)
 
 ##### Athkar
 - [HisnulMuslim](https://github.com/khalid-hussain/HisnulMuslim) : an Android app which include all the dua from Hisnul Muslim.
