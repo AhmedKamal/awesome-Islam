@@ -134,6 +134,7 @@ Your contributions are always welcome!
   - [Muslim mate website](https://github.com/fekracomputers/MuslimMateWebsite)
   - [Al Quran Cloud](https://github.com/islamic-network/alquran.cloud)
   - [Praycal](https://praycal.com) : Sync Islamic prayer times with your calendar availability
+  - [Fasting Times](https://github.com/edwgiz/tayyib-fasting-calendar) Calculates Sunnah, voluntary, and prohibited fasting days and times. https://calendar.tayyiba.live/
 
 ### Browser Extensions
 - [Prayer Times Extension](https://github.com/mohamedmansour/prayer-times-extension)
