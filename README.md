@@ -134,6 +134,7 @@ Your contributions are always welcome!
   - [Muslim mate website](https://github.com/fekracomputers/MuslimMateWebsite)
   - [Al Quran Cloud](https://github.com/islamic-network/alquran.cloud)
   - [Praycal](https://praycal.com) : Sync Islamic prayer times with your calendar availability
+  - - [Barakah](https://barakah.life) : Free, ad-free Islamic web app. Prayer times for 250+ cities, qibla, full dua collections, 99 Names of Allah, halal barcode scanner, zakat calculator with scholar rulings, and a 30-day path for new Muslims. Every claim sourced to Quran or graded hadith. Madhab-neutral, no tracking.
 
 ### Browser Extensions
 - [Prayer Times Extension](https://github.com/mohamedmansour/prayer-times-extension)
