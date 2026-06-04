@@ -134,6 +134,8 @@ Your contributions are always welcome!
   - [Muslim mate website](https://github.com/fekracomputers/MuslimMateWebsite)
   - [Al Quran Cloud](https://github.com/islamic-network/alquran.cloud)
   - [Praycal](https://praycal.com) : Sync Islamic prayer times with your calendar availability
+  - 🌐 **[TilawaNow](https://github.com/risvandev/TilawaNow)** ⭐ 0 – Open-source Qur’an platform for reading and listening with word-level translation and pronunciation, plus a separate AI chat for deeper understanding and progress tracking 👍 Word-level audio, Translation support, AI chat assistant, Progress tracking
+
 
 ### Browser Extensions
 - [Prayer Times Extension](https://github.com/mohamedmansour/prayer-times-extension)
