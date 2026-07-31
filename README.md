@@ -54,12 +54,15 @@ Your contributions are always welcome!
 - [Ummalqura calendar](https://github.com/msarhan/ummalqura-calendar) : precise implementation for java.util.calender for Ummalqura Hijri calender which produces result as the official one  
 
 #### Javascript
+- [halalterminal-mcp](https://github.com/goww7/halalterminal-mcp) : MCP server for Shariah-compliant stock and ETF screening (AAOIFI, DJIM, FTSE, MSCI, S&P), zakat and purification, usable from Claude, Cursor and any MCP client.
+- [halalterminal-sdk-js](https://github.com/goww7/halalterminal-sdk-js) : JavaScript SDK for Shariah stock and ETF screening via the Halal Terminal API (free tier available).
 - [node,websql and javascript API for Holy quran](https://github.com/qzaidi/quran) : node,websql and javascript API for Holy quran http://qzaidi.github.io/quran/
 - [Pray-Times](https://github.com/abodehq/Pray-Times/tree/master/Code/v2/js) : an open-source library for calculating Muslim prayers times.
 - [Quran-CLI](https://github.com/sarfraznawaz2005/quran-cli) : Read/Recite The Holy Quran from the commandline with English translation.
 
 #### Python
 - [Django-Quran](https://github.com/idris/django-quran) : Quranic models and helpers for use in Django projects http://www.openislam.org/
+- [halalterminal-sdk-python](https://github.com/goww7/halalterminal-sdk-python) : Python SDK for Shariah-compliant stock and ETF screening (AAOIFI, DJIM, FTSE, MSCI, S&P), zakat and purification via the Halal Terminal API (free tier available).
 - [Hijra](https://github.com/ojuba-org/hijra) : Hijri Islamic Calendar utils in python
 - [Pray-Times](https://github.com/abodehq/Pray-Times/tree/master/Code/v2/python) : an open-source library for calculating Muslim prayers times.
 - [pyIslam](https://github.com/abougouffa/pyIslam) : pyIslam, a Python library to calculate prayer times, hijri date, qiblah direction and more http://abougouffa.github.io/pyIslam
