@@ -100,7 +100,8 @@ Your contributions are always welcome!
   - [Quran for Android by Fekra computers](https://github.com/fekracomputers/QuranAndroid) :  free Quran android application with audio recitation
 - [Kids Quran Android](https://github.com/abodehq/Kids-Quran-Android-v1) : an interactive app for motivating children to learn Quran
 - [Word By Word Quran](https://github.com/SadaqaWorks/Word-By-Word-Quran-Android) :Al- Quran for Android, in three language English, Indonesian, Bangla with Word by Word and grammatical analysis.
-
+- [1Ayah](https://play.google.com/store/apps/details?id=com.oneayah.oneayah): Beginner friendly, targetted towards user who is simply starting to do hifz part-time, casual. The aim is also simple learn 1 verse a day
+- [Murajah](https://play.google.com/store/apps/details?id=com.murajah.webview): A Quran memorization, revision and retention habit builder app for full time hifz students/teachers.
 ##### Prayer time and hijri date
 - [Hijri Calendar](https://github.com/abodehq/Hijri-Calendar) : Hijri Calendar [app](https://play.google.com/store/apps/details?id=com.mos7af.hijri) for android
 - [Muslim Mate](https://github.com/fekracomputers/MuslimMateAndroid) : Praying times, Quibla, Mosques and halal restaurant around you, date conversion from Hijri to Gregorian and vice versa.
@@ -134,6 +135,7 @@ Your contributions are always welcome!
   - [Muslim mate website](https://github.com/fekracomputers/MuslimMateWebsite)
   - [Al Quran Cloud](https://github.com/islamic-network/alquran.cloud)
   - [Praycal](https://praycal.com) : Sync Islamic prayer times with your calendar availability
+  - [Murajah](https://murajah.pages.dev/): Memorize Quran, Track mistakes, with a concrete memorization and revision plan. 
 
 ### Browser Extensions
 - [Prayer Times Extension](https://github.com/mohamedmansour/prayer-times-extension)
