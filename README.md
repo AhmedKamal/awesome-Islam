@@ -134,6 +134,7 @@ Your contributions are always welcome!
   - [Muslim mate website](https://github.com/fekracomputers/MuslimMateWebsite)
   - [Al Quran Cloud](https://github.com/islamic-network/alquran.cloud)
   - [Praycal](https://praycal.com) : Sync Islamic prayer times with your calendar availability
+  - [Prayer Time Riyadh](https://prayertimeriyadh.org) : A fast, mobile-first site providing daily prayer times for Riyadh with a next-prayer countdown, Hijri date, and major city pages, plus a shareable widget.
 
 ### Browser Extensions
 - [Prayer Times Extension](https://github.com/mohamedmansour/prayer-times-extension)
