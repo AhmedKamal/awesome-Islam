@@ -146,6 +146,7 @@ Your contributions are always welcome!
 - [Altaqwaa](https://github.com/rn0x/Altaqwaa-Islamic-Desktop-Application) : Application of Quran, Adhkar and Prayer times for desktop devices
 - [Kizana](https://github.com/elkizana/kizana) : An Open source and multi-platform Shamela alternative
 - [Muezzin](https://github.com/DBChoco/Muezzin) : A prayer times (Adhan) and Quran app for Windows, macOS and GNU/Linux.
+- [nxprayer](https://github.com/AbdeltwabMF/nxprayer) : A lightweight Islamic prayer reminder for Unix status bars (e.g. polybar, i3blocks, waybar).
 
 ### MISC
 - [Alfanous](https://github.com/assem-ch/alfanous) : Alfanous (The Lantern - الفانوس ) is an Arabic search engine API provide the simple and advanced search in the Holy Quran , more features and many interfaces... http://www.alfanous.org
