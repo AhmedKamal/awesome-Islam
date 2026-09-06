@@ -92,6 +92,7 @@ Your contributions are always welcome!
 #### Cross Platform
 - [aQuran](https://github.com/forabi/aQuran) : A mobile-optimized, cross-platform Quran app built with web technologies. http://forabi.github.io/aQuran
 - [Hadith Encyclopedia](https://github.com/fekracomputers/HadithEncyclopediaMobile) cross platform hadith app with coloring for narrators
+- [Mihrab](https://github.com/Hassan-PS/Mihrab) : prayer times with adhan reminders and widgets, the Madinah mushaf in four riwayat with recitation and tafsir, duas, tasbih and a prayer journal — Android, iPhone, iPad and Mac, offline-first with no ads or trackers https://mihrab.elghamri.se/
 
 #### Android
 ##### Quran
