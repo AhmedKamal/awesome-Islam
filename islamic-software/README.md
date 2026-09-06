@@ -19,6 +19,7 @@ Khatmah will help you keep reading your quranic werd every day easily.
 - [Qamardeen](http://qamardeen.com/) :  an app that tells you how well you've been praying this week, how regularly you've been reading Quran this month, and how steadily you've been fasting this year.
 - [Prayer Times Today](https://itunes.apple.com/us/app/prayer-times-today/id921754326?mt=8) : The most simple way to view Muslim prayer times. With very elegant and easy today extension you can now view Muslim prayer times so fast.
 - [Hijri Calendar](https://itunes.apple.com/us/app/hijri-calendar/id410453117?mt=8) : a cool hirjri calendar that has multiple features
+- [Qibla Daily](https://apps.apple.com/app/qibla-daily-prayer-qada/id6806381552) : Prayer times, qibla compass and a dua library where every supplication carries its hadith source. Times and qibla bearing are computed on the device, so coordinates never leave the phone, and the compass and library work offline. Includes a qada (missed prayer) tracker. Companion site: [qibladaily.com](https://qibladaily.com)
 
 #### Android
 
