@@ -134,6 +134,8 @@ Your contributions are always welcome!
   - [Muslim mate website](https://github.com/fekracomputers/MuslimMateWebsite)
   - [Al Quran Cloud](https://github.com/islamic-network/alquran.cloud)
   - [Praycal](https://praycal.com) : Sync Islamic prayer times with your calendar availability
+  - [DebtRunway](https://debtrunway.com) : Faraid inheritance by the Qur'anic shares, zakat with the nisab taken from the day's gold       and silver price, prayer times, Qibla and the Hijri calendar. Runs entirely in the browser — nothing entered is ever sent to a        server. Each engine is checked against the worked examples in the classical texts.
+
 
 ### Browser Extensions
 - [Prayer Times Extension](https://github.com/mohamedmansour/prayer-times-extension)
