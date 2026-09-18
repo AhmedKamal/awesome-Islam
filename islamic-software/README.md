@@ -19,6 +19,7 @@ Khatmah will help you keep reading your quranic werd every day easily.
 - [Qamardeen](http://qamardeen.com/) :  an app that tells you how well you've been praying this week, how regularly you've been reading Quran this month, and how steadily you've been fasting this year.
 - [Prayer Times Today](https://itunes.apple.com/us/app/prayer-times-today/id921754326?mt=8) : The most simple way to view Muslim prayer times. With very elegant and easy today extension you can now view Muslim prayer times so fast.
 - [Hijri Calendar](https://itunes.apple.com/us/app/hijri-calendar/id410453117?mt=8) : a cool hirjri calendar that has multiple features
+- [Ayah Reels](https://apps.apple.com/app/id6794389870) : Create a 9:16 Quran recitation reel from any verse range - pick a reciter from 37, scenery and typography; the Quran text is synced to the recitation and it exports an MP4 to share.
 
 #### Android
 
@@ -28,6 +29,7 @@ Khatmah will help you keep reading your quranic werd every day easily.
 Khatmah will help you keep reading your quranic werd every day easily.
 - [Wazaker - Daily Aya](https://play.google.com/store/apps/details?id=com.wazakerdailyaya)
 Get a message from The Holy Quran every day in a new and simple way.
+- [Ayah Reels](https://play.google.com/store/apps/details?id=com.ayahreel.app) : Create a 9:16 Quran recitation reel from any verse range - pick a reciter from 37, scenery and typography; the Quran text is synced to the recitation and it exports an MP4 to share.
 
 #### Windows Phone
 - [Hijri Calendar](https://www.microsoft.com/en-us/store/apps/hijri-calendar/9wzdncrfhxtl) : Hijri Calendar provides you with a calendar showing the current Hijri date, updates the app's live tile and reminds you of important islamic events.
