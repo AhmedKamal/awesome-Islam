@@ -166,6 +166,7 @@ Your contributions are always welcome!
 - [PDF Quran](https://github.com/abodehq/QuranPDF) : PDF version for Quran in different languages
 - [Hisn Al muslim json](https://github.com/rn0x/hisn_almuslim_json) : book Hisn Al muslim File Json 
 - [Names Of Allah json](https://github.com/rn0x/Names_Of_Allah_Json) : Names Of Allah File Json
+- [Muslim Names Dataset](https://github.com/moustaqim/muslim-names-dataset) : Curated sample of 150 Muslim names (drawn from a 2,400+ name verified database) with Arabic script, FR/EN transliterations, FR/EN/AR meanings, gender and Quranic flags
 
 #### Sound
 
