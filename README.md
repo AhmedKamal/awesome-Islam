@@ -86,6 +86,7 @@ Your contributions are always welcome!
 ---
 ### Machine Learning & AI
 - [Tarteel](https://github.com/Tarteel-io/tarteel-ml): Developing the next generation of AI powered Muslim Apps
+- [Muslim Prayer Reminder MCP](https://github.com/tareq7/muslim-prayer-mcp): Connect AI assistants to configurable Muslim prayer times with explicit calculation-method disclosure.
 ---
 ### Mobile Apps
 
