@@ -54,6 +54,7 @@ Your contributions are always welcome!
 - [Ummalqura calendar](https://github.com/msarhan/ummalqura-calendar) : precise implementation for java.util.calender for Ummalqura Hijri calender which produces result as the official one  
 
 #### Javascript
+- [zakat-mal](https://github.com/codesbykhairannoor/zakat-mal) : Zero-dependency, mathematically rigorous, and Fiqh-verified Zakat Mal calculation engine (AAOIFI Standard 35 & Fatwa MUI/BAZNAS).
 - [node,websql and javascript API for Holy quran](https://github.com/qzaidi/quran) : node,websql and javascript API for Holy quran http://qzaidi.github.io/quran/
 - [Pray-Times](https://github.com/abodehq/Pray-Times/tree/master/Code/v2/js) : an open-source library for calculating Muslim prayers times.
 - [Quran-CLI](https://github.com/sarfraznawaz2005/quran-cli) : Read/Recite The Holy Quran from the commandline with English translation.
