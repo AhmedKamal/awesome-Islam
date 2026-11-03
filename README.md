@@ -134,6 +134,7 @@ Your contributions are always welcome!
   - [Muslim mate website](https://github.com/fekracomputers/MuslimMateWebsite)
   - [Al Quran Cloud](https://github.com/islamic-network/alquran.cloud)
   - [Praycal](https://praycal.com) : Sync Islamic prayer times with your calendar availability
+  - [Islam Museum](https://github.com/amado2k5/islam-museum) : islam.museum, a free digital museum of Islamic history with 46,793 sourced entries in Arabic, English and Urdu; data CC0, code MIT. https://islam.museum
 
 ### Browser Extensions
 - [Prayer Times Extension](https://github.com/mohamedmansour/prayer-times-extension)
