@@ -86,6 +86,7 @@ Your contributions are always welcome!
 ---
 ### Machine Learning & AI
 - [Tarteel](https://github.com/Tarteel-io/tarteel-ml): Developing the next generation of AI powered Muslim Apps
+- [Madeenan MCP server and SDKs](https://github.com/itsmunzir/madeenan) : MIT-licensed MCP server and TypeScript/Python clients that give AI assistants Quran, Hadith, Tafsir and dua lookups with citation fields, using the hosted [Madeenan](https://madeenan.com) API (free tier).
 ---
 ### Mobile Apps
 
