@@ -92,6 +92,7 @@ Your contributions are always welcome!
 #### Cross Platform
 - [aQuran](https://github.com/forabi/aQuran) : A mobile-optimized, cross-platform Quran app built with web technologies. http://forabi.github.io/aQuran
 - [Hadith Encyclopedia](https://github.com/fekracomputers/HadithEncyclopediaMobile) cross platform hadith app with coloring for narrators
+- - [Simple Prayer](https://github.com/majani-plus/simple-prayer-app) : prayer times, qibla and gentle prayer tracking for iOS, Android, Apple Watch and Wear OS, built with React Native. No ads, no account.
 
 #### Android
 ##### Quran
