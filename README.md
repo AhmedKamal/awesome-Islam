@@ -134,6 +134,7 @@ Your contributions are always welcome!
   - [Muslim mate website](https://github.com/fekracomputers/MuslimMateWebsite)
   - [Al Quran Cloud](https://github.com/islamic-network/alquran.cloud)
   - [Praycal](https://praycal.com) : Sync Islamic prayer times with your calendar availability
+  - [Al Quran](https://github.com/YasinHossain/quran-app) : Next.js Quran web app (https://appquran.com) with surah, juz and page reading, translations, tafsir, audio recitation, search, bookmarks and PWA support. Available in English, Bangla, Urdu, Hindi and Arabic.
 
 ### Browser Extensions
 - [Prayer Times Extension](https://github.com/mohamedmansour/prayer-times-extension)
