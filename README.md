@@ -57,6 +57,7 @@ Your contributions are always welcome!
 - [node,websql and javascript API for Holy quran](https://github.com/qzaidi/quran) : node,websql and javascript API for Holy quran http://qzaidi.github.io/quran/
 - [Pray-Times](https://github.com/abodehq/Pray-Times/tree/master/Code/v2/js) : an open-source library for calculating Muslim prayers times.
 - [Quran-CLI](https://github.com/sarfraznawaz2005/quran-cli) : Read/Recite The Holy Quran from the commandline with English translation.
+- [arabic-core](https://github.com/getkirnu/arabic-core) : zero-dependency TypeScript library for Umm al-Qura Hijri ↔ Gregorian date conversion, plus Arabic number-to-words and amounts in words.
 
 #### Python
 - [Django-Quran](https://github.com/idris/django-quran) : Quranic models and helpers for use in Django projects http://www.openislam.org/
