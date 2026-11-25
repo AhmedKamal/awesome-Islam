@@ -152,6 +152,7 @@ Your contributions are always welcome!
 - [Quran Research Tool](https://github.com/oazabir/Quran)
 - [IslamicTextAHK](https://github.com/khalid-hussain/IslamicTextAHK) : This is an app developed using AutoHotkey scripting to help expand most commonly used Islamic terms while allowing the user to edit the defaults and/or add their own custom expansions. 
 - [Islam_Bot](https://github.com/rn0x/Islam_Bot) :  bot for the Telegram application with a graphical interface that contains many services, the most important of which is the automatic dissemination of adhkar and the Qur’an to all subscribers of the bot
+- [Salah Launcher](https://github.com/abdok30303-coder/apl-plus-musalla) : An Apple TV-style launcher for Samsung Tizen TVs with offline prayer times, a full Mushaf with tashkeel and Tafsir al-Sa'di, Quran radio and azkar. Fork of APL Launcher.
 
 
 ---
