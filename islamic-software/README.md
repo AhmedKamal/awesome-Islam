@@ -52,6 +52,10 @@ Get a message from The Holy Quran every day in a new and simple way.
 ### Wearables Apps
 - [My Prayer wear](https://play.google.com/store/apps/details?id=com.haz.prayer.wear) : My Prayer wear is only for smartwatches running Android Wear.
 
+### TV Apps
+- [Salah Launcher](https://github.com/abdok30303-coder/apl-plus-musalla) : Open-source Arabic home screen launcher for Samsung Smart TVs (Tizen 6.5+) with prayer times, Quran radio and an offline Mushaf with tafsir.
+
+
 ### Browser Extensions
 - [Zikr](https://chrome.google.com/webstore/detail/zikr/dechcjncbhilapicebooedmhphhiglef?hl=en-US&gl=EG) : Zikr app make it easy for you to listen Holy Quran much more faster and easier with professional Quran player  
 - [QuranTab](https://chrome.google.com/webstore/detail/quran-tab/afaihcdgkjebgabomemccdneglknjkdd?hl=en) : QuranTab is islamic new tab page, will keep you inspired by a verse from Quran every time you open a new tab.  
